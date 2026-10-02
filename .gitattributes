@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.ps1 text eol=crlf
+# Frozen hashes cover exact bytes, including line endings.
+data/splits/** -text whitespace=cr-at-eol
+artifacts/** -text whitespace=cr-at-eol

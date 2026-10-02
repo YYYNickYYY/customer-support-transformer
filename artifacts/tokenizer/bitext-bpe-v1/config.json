@@ -1,0 +1,35 @@
+{
+  "artifact_version": "bitext-bpe-v1",
+  "algorithm": "byte-level BPE",
+  "tokenizers_version": "0.23.1",
+  "normalization": "none",
+  "training_split": "train",
+  "training_fields": [
+    "instruction",
+    "response"
+  ],
+  "requested_vocab_size": 4000,
+  "vocab_size": 4000,
+  "min_frequency": 2,
+  "special_token_ids": {
+    "<PAD>": 0,
+    "<BOS>": 1,
+    "<USER>": 2,
+    "<ASSISTANT>": 3,
+    "<EOS>": 4
+  },
+  "template": "<BOS><USER>{instruction}<ASSISTANT>{response}<EOS>",
+  "assembly": "encode fields separately, insert special IDs",
+  "max_length": 512,
+  "length_scope": "full sequence before next-token shift",
+  "model_context_length": 512,
+  "truncation_side": "right",
+  "loss_scope": "response and retained EOS; prompt/padding labels=-100",
+  "selection_rule": "shortest of 128/256/512/1024 with <=1% full sequence truncation in train and dev and zero unsupervised samples",
+  "source_revision": "fb86d1b60038970d79fefbfa0c28b47c22d8b961",
+  "split_sha256": {
+    "train.jsonl": "2a5186ebf69c691cb7848c6bd5509882158ff49477e1e99fdb3d0991df968396",
+    "dev.jsonl": "35f7f1711e400290b1d20588382663d3a6c6c730c023a09470bec22c4de5d493"
+  },
+  "tokenizer_sha256": "43b80bbb10695d80aa442fa8435eb3ca8c33111554bf1d076006dcf2b7d76ea7"
+}

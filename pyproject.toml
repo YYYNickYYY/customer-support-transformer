@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my-project-1"
+version = "0.1.0"
+description = "A reproducible 90-day LLM learning project."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "rich==15.0.0",
+    "typer==0.27.2",
+]
+
+[project.optional-dependencies]
+tokenizer = [
+    "tokenizers==0.23.1",
+]
+dev = [
+    "pytest==9.1.1",
+]
+ml = [
+    "numpy==2.2.6",
+    "torch==2.13.0",
+    "transformers==5.16.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

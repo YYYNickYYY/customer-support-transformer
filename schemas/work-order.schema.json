@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/work-order.schema.json",
+  "title": "Customer Support Work Order",
+  "description": "客服工单字段草案，版本 0.1.0。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "ticket_id",
+    "created_at",
+    "channel",
+    "language",
+    "customer_message",
+    "category",
+    "intent",
+    "priority",
+    "status",
+    "sentiment",
+    "tags",
+    "pii_redacted",
+    "source",
+    "metadata"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "0.1.0",
+      "description": "工单结构版本。"
+    },
+    "ticket_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "工单唯一标识。"
+    },
+    "conversation_id": {
+      "type": ["string", "null"],
+      "description": "多轮对话标识；未知时为 null。"
+    },
+    "created_at": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "原始创建时间；数据集未提供时为 null。"
+    },
+    "updated_at": {
+      "type": ["string", "null"],
+      "format": "date-time"
+    },
+    "channel": {
+      "type": "string",
+      "enum": ["chat", "email", "phone", "social", "web", "other"]
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[a-z]{2}(-[A-Z]{2})?$"
+    },
+    "subject": {
+      "type": ["string", "null"]
+    },
+    "customer_message": {
+      "type": "string",
+      "minLength": 1
+    },
+    "agent_response": {
+      "type": ["string", "null"]
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intent": {
+      "type": "string",
+      "minLength": 1
+    },
+    "priority": {
+      "type": "string",
+      "enum": ["low", "normal", "high", "urgent"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["new", "open", "pending", "resolved", "closed"]
+    },
+    "sentiment": {
+      "type": "string",
+      "enum": ["positive", "neutral", "negative", "unknown"]
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true
+    },
+    "pii_redacted": {
+      "type": "boolean"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["dataset", "record_id"],
+      "properties": {
+        "dataset": {"type": "string", "minLength": 1},
+        "record_id": {"type": ["string", "null"]}
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "不进入核心字段的来源数据或实验信息。"
+    }
+  }
+}

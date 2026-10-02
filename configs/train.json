@@ -1,0 +1,8 @@
+{
+  "epochs": 2,
+  "steps_per_epoch": 5,
+  "learning_rate": 0.001,
+  "seed": 42,
+  "device": "auto",
+  "output_dir": "runs"
+}

@@ -1,0 +1,216 @@
+{
+  "train": {
+    "rows": 21528,
+    "lengths": {
+      "instruction": {
+        "min": 2,
+        "mean": 9.972,
+        "max": 23,
+        "p50": 10,
+        "p95": 15,
+        "p99": 17
+      },
+      "response": {
+        "min": 12,
+        "mean": 127.963,
+        "max": 519,
+        "p50": 105,
+        "p95": 265,
+        "p99": 374
+      },
+      "full_sequence": {
+        "min": 22,
+        "mean": 141.935,
+        "max": 533,
+        "p50": 119,
+        "p95": 279,
+        "p99": 389
+      }
+    },
+    "truncation": {
+      "128": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 7175,
+            "rate": 0.3332868821999257
+          },
+          "full_sequence": {
+            "count": 8937,
+            "rate": 0.415133779264214
+          }
+        },
+        "lost_sequence_tokens": 683536,
+        "lost_response_tokens": 674599,
+        "zero_supervised_samples": 0
+      },
+      "256": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 1224,
+            "rate": 0.056856187290969896
+          },
+          "full_sequence": {
+            "count": 1594,
+            "rate": 0.0740431066518023
+          }
+        },
+        "lost_sequence_tokens": 109426,
+        "lost_response_tokens": 107832,
+        "zero_supervised_samples": 0
+      },
+      "512": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 1,
+            "rate": 4.645113340765515e-05
+          },
+          "full_sequence": {
+            "count": 3,
+            "rate": 0.00013935340022296544
+          }
+        },
+        "lost_sequence_tokens": 47,
+        "lost_response_tokens": 44,
+        "zero_supervised_samples": 0
+      },
+      "1024": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "full_sequence": {
+            "count": 0,
+            "rate": 0.0
+          }
+        },
+        "lost_sequence_tokens": 0,
+        "lost_response_tokens": 0,
+        "zero_supervised_samples": 0
+      }
+    }
+  },
+  "dev": {
+    "rows": 2688,
+    "lengths": {
+      "instruction": {
+        "min": 2,
+        "mean": 10.005,
+        "max": 22,
+        "p50": 10,
+        "p95": 15,
+        "p99": 17
+      },
+      "response": {
+        "min": 13,
+        "mean": 129.885,
+        "max": 474,
+        "p50": 106,
+        "p95": 266,
+        "p99": 380
+      },
+      "full_sequence": {
+        "min": 24,
+        "mean": 143.89,
+        "max": 491,
+        "p50": 120,
+        "p95": 282,
+        "p99": 394
+      }
+    },
+    "truncation": {
+      "128": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 943,
+            "rate": 0.3508184523809524
+          },
+          "full_sequence": {
+            "count": 1168,
+            "rate": 0.43452380952380953
+          }
+        },
+        "lost_sequence_tokens": 90001,
+        "lost_response_tokens": 88833,
+        "zero_supervised_samples": 0
+      },
+      "256": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 153,
+            "rate": 0.056919642857142856
+          },
+          "full_sequence": {
+            "count": 211,
+            "rate": 0.07849702380952381
+          }
+        },
+        "lost_sequence_tokens": 13834,
+        "lost_response_tokens": 13623,
+        "zero_supervised_samples": 0
+      },
+      "512": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "full_sequence": {
+            "count": 0,
+            "rate": 0.0
+          }
+        },
+        "lost_sequence_tokens": 0,
+        "lost_response_tokens": 0,
+        "zero_supervised_samples": 0
+      },
+      "1024": {
+        "over_limit": {
+          "instruction": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "response": {
+            "count": 0,
+            "rate": 0.0
+          },
+          "full_sequence": {
+            "count": 0,
+            "rate": 0.0
+          }
+        },
+        "lost_sequence_tokens": 0,
+        "lost_response_tokens": 0,
+        "zero_supervised_samples": 0
+      }
+    }
+  }
+}

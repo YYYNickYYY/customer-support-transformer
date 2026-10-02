@@ -1,0 +1,183 @@
+{
+  "source": {
+    "repository": "bitext/Bitext-customer-support-llm-chatbot-training-dataset",
+    "revision": "fb86d1b60038970d79fefbfa0c28b47c22d8b961",
+    "file": "Bitext_Sample_Customer_Support_Training_Dataset_27K_responses-v11.csv",
+    "size_bytes": 19202474,
+    "sha256": "6f81102b0100b97b8468eb04368033a23206bf1fde9d53500d5806ec1001a434"
+  },
+  "row_count": 26872,
+  "columns": [
+    "flags",
+    "instruction",
+    "category",
+    "intent",
+    "response"
+  ],
+  "missing_values": {
+    "category": 0,
+    "instruction": 0,
+    "intent": 0
+  },
+  "category": {
+    "unique_count": 11,
+    "values": [
+      "ACCOUNT",
+      "CANCEL",
+      "CONTACT",
+      "DELIVERY",
+      "FEEDBACK",
+      "INVOICE",
+      "ORDER",
+      "PAYMENT",
+      "REFUND",
+      "SHIPPING",
+      "SUBSCRIPTION"
+    ],
+    "counts": {
+      "ACCOUNT": 5986,
+      "CANCEL": 950,
+      "CONTACT": 1999,
+      "DELIVERY": 1994,
+      "FEEDBACK": 1997,
+      "INVOICE": 1999,
+      "ORDER": 3988,
+      "PAYMENT": 1998,
+      "REFUND": 2992,
+      "SHIPPING": 1970,
+      "SUBSCRIPTION": 999
+    }
+  },
+  "intent": {
+    "unique_count": 27,
+    "values": [
+      "cancel_order",
+      "change_order",
+      "change_shipping_address",
+      "check_cancellation_fee",
+      "check_invoice",
+      "check_payment_methods",
+      "check_refund_policy",
+      "complaint",
+      "contact_customer_service",
+      "contact_human_agent",
+      "create_account",
+      "delete_account",
+      "delivery_options",
+      "delivery_period",
+      "edit_account",
+      "get_invoice",
+      "get_refund",
+      "newsletter_subscription",
+      "payment_issue",
+      "place_order",
+      "recover_password",
+      "registration_problems",
+      "review",
+      "set_up_shipping_address",
+      "switch_account",
+      "track_order",
+      "track_refund"
+    ],
+    "counts": {
+      "cancel_order": 998,
+      "change_order": 997,
+      "change_shipping_address": 973,
+      "check_cancellation_fee": 950,
+      "check_invoice": 1000,
+      "check_payment_methods": 999,
+      "check_refund_policy": 997,
+      "complaint": 1000,
+      "contact_customer_service": 1000,
+      "contact_human_agent": 999,
+      "create_account": 997,
+      "delete_account": 995,
+      "delivery_options": 995,
+      "delivery_period": 999,
+      "edit_account": 1000,
+      "get_invoice": 999,
+      "get_refund": 997,
+      "newsletter_subscription": 999,
+      "payment_issue": 999,
+      "place_order": 998,
+      "recover_password": 995,
+      "registration_problems": 999,
+      "review": 997,
+      "set_up_shipping_address": 997,
+      "switch_account": 1000,
+      "track_order": 995,
+      "track_refund": 998
+    }
+  },
+  "category_intents": {
+    "ACCOUNT": [
+      "create_account",
+      "delete_account",
+      "edit_account",
+      "recover_password",
+      "registration_problems",
+      "switch_account"
+    ],
+    "CANCEL": [
+      "check_cancellation_fee"
+    ],
+    "CONTACT": [
+      "contact_customer_service",
+      "contact_human_agent"
+    ],
+    "DELIVERY": [
+      "delivery_options",
+      "delivery_period"
+    ],
+    "FEEDBACK": [
+      "complaint",
+      "review"
+    ],
+    "INVOICE": [
+      "check_invoice",
+      "get_invoice"
+    ],
+    "ORDER": [
+      "cancel_order",
+      "change_order",
+      "place_order",
+      "track_order"
+    ],
+    "PAYMENT": [
+      "check_payment_methods",
+      "payment_issue"
+    ],
+    "REFUND": [
+      "check_refund_policy",
+      "get_refund",
+      "track_refund"
+    ],
+    "SHIPPING": [
+      "change_shipping_address",
+      "set_up_shipping_address"
+    ],
+    "SUBSCRIPTION": [
+      "newsletter_subscription"
+    ]
+  },
+  "instruction_length": {
+    "characters": {
+      "unit": "Unicode code points",
+      "definition": "len(instruction) after CSV decoding; no trimming or normalization",
+      "min": 6,
+      "max": 92,
+      "mean": 46.89,
+      "median": 48.0,
+      "p95_nearest_rank": 61
+    },
+    "whitespace_words": {
+      "unit": "non-whitespace spans",
+      "definition": "count of regex matches for \\S+ in the decoded instruction",
+      "min": 1,
+      "max": 16,
+      "mean": 8.691,
+      "median": 9.0,
+      "p95_nearest_rank": 13
+    }
+  }
+}

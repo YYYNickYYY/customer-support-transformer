@@ -1,0 +1,34 @@
+{
+  "revision": "fb86d1b60038970d79fefbfa0c28b47c22d8b961",
+  "source_sha256": "6f81102b0100b97b8468eb04368033a23206bf1fde9d53500d5806ec1001a434",
+  "seed": 42,
+  "rule": "remove {{...}} spans; lower(); collapse whitespace; preserve punctuation",
+  "ratios_by_template_group": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "algorithm": "sorted keys shuffled with Python random.Random(seed); floor(0.8*n), floor(0.9*n)",
+  "id_rule": "bitext:<full revision>:<zero-based CSV record index>",
+  "counts": {
+    "train": {
+      "rows": 21528,
+      "groups": 19192
+    },
+    "dev": {
+      "rows": 2688,
+      "groups": 2399
+    },
+    "sealed_test": {
+      "rows": 2656,
+      "groups": 2399
+    }
+  },
+  "file_sha256": {
+    "train.jsonl": "2a5186ebf69c691cb7848c6bd5509882158ff49477e1e99fdb3d0991df968396",
+    "dev.jsonl": "35f7f1711e400290b1d20588382663d3a6c6c730c023a09470bec22c4de5d493",
+    "sealed_test.jsonl": "8f8cd4014aa3d120f6d4b78c7f9c01d7e618ccaba1c00788569b30c5fcb2309c",
+    "sealed_test_ids.json": "0e1081b9e3bdf7a1f24444ceb1a997bd05a52f279b82813a6d1838169b13b620"
+  },
+  "sealed_test_policy": "Do not use for training, model selection, or tuning; retain frozen IDs."
+}
