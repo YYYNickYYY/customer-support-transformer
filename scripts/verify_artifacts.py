@@ -20,7 +20,8 @@ def main():
 
     count = 0
     for manifest in (Path("data/splits/bitext-v1/manifest.json"),
-                     Path("artifacts/tokenizer/bitext-bpe-v1/freeze.json")):
+                     Path("artifacts/tokenizer/bitext-bpe-v1/freeze.json"),
+                     Path("artifacts/dev-check-v1/freeze.json")):
         entries = json.loads(read(manifest))["file_sha256"]
         for name, expected in entries.items():
             path = manifest.parent / name

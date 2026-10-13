@@ -14,6 +14,11 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+data = [
+    "numpy==2.2.6",
+    "torch==2.13.0",
+    "tokenizers==0.23.1",
+]
 tokenizer = [
     "tokenizers==0.23.1",
 ]

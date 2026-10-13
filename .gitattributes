@@ -8,3 +8,12 @@
 # Frozen hashes cover exact bytes, including line endings.
 data/splits/** -text whitespace=cr-at-eol
 artifacts/** -text whitespace=cr-at-eol
+# Experiment manifests also freeze source/config/document bytes. Preserve their
+# existing line endings when publishing; do not invalidate historical hashes.
+src/** -text
+scripts/** -text
+tests/** -text whitespace=-blank-at-eof
+configs/** -text
+docs/** -text whitespace=-blank-at-eof
+data/derived/** -text
+.vscode/** -text

@@ -48,6 +48,7 @@ def run_training(
     train_step: Callable[[int, int, str], float] | None = None,
     *,
     dry_run: bool = False,
+    run_metadata: dict | None = None,
 ) -> Path:
     """Run a loop and return its unique output directory.
 
@@ -71,6 +72,8 @@ def run_training(
         **asdict(config), "resolved_device": device, "dry_run": dry_run,
         "run_id": run_id, "started_at": started,
     })
+    if run_metadata is not None:
+        _save_json(run_dir / "experiment.json", run_metadata)
     status = {"state": "running", "completed_steps": 0, "dry_run": dry_run}
     _save_json(run_dir / "status.json", status)
     try:

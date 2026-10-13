@@ -16,5 +16,10 @@ Details and source checksums are in `docs/data-card.md` and the split manifest.
 The tokenizer in `artifacts/tokenizer/bitext-bpe-v1` was trained on the train split;
 its provenance is documented in `docs/tokenizer.md`.
 
+The files under `data/derived/` are modified training-target versions of the same
+Bitext examples and are also redistributed under CDLA-Sharing-1.0. Their manifests,
+rules and change ledgers identify the changes to result/privacy/refund wording.
+These edits do not establish real merchant policies or authorized business actions.
+
 This notice covers the dataset; it does not assign a license to the project's
 original source code. Public repository visibility alone does not grant a code license.

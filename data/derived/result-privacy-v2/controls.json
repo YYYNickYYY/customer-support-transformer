@@ -1,0 +1,161 @@
+{
+  "excluded": [
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7049",
+      "intent": "complaint",
+      "reason": "qualified-service-intent",
+      "sentence": "Our dedicated team will handle your complaint with the utmost care and work towards a resolution that meets your expectations."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22876",
+      "intent": "review",
+      "reason": "qualified-service-intent",
+      "sentence": "There, you'll find a form where you can share your thoughts, suggestions, or any concerns you may have."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25295",
+      "intent": "track_order",
+      "reason": "qualified-service-intent",
+      "sentence": "To provide you with accurate information, may I kindly ask you to provide your full name and email associated with the order?"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12004",
+      "intent": "delivery_options",
+      "reason": "qualified-service-intent",
+      "sentence": "From efficient and cost-effective standard shipping to expedited shipping for time-sensitive items, we strive to provide a seamless delivery experience."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20257",
+      "intent": "recover_password",
+      "reason": "qualified-service-intent",
+      "sentence": "3. You may be asked to verify your identity, so please provide the necessary information or follow any additional steps if prompted."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7578",
+      "intent": "complaint",
+      "reason": "qualified-service-intent",
+      "sentence": "I want to express my sincere apologies for any negative experience you may have had, and I'm truly sorry you need assistance in lodging a consumer claim against our company."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7578",
+      "intent": "complaint",
+      "reason": "qualified-service-intent",
+      "sentence": "We take all claims seriously and aim to address them promptly and fairly."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "I catch on to the fact that you're encountering errors while trying to set up a different delivery address, and I'm here to assist you with resolving this issue."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "Error messages can sometimes be vague, so I would recommend trying the following troubleshooting steps:"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "3. Use autofill features cautiously: While autofill can be convenient, it may sometimes populate incorrect or outdated information."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "4. Try a different browser or device: It's possible that there may be compatibility issues with the browser or device you're currently using."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "Trying a different browser or device can help isolate the problem."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "5. Contact our customer support: If the issue persists after trying the above steps, our dedicated customer support team is available to provide personalized assistance and troubleshoot the issue further."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "Remember, each system may have different requirements for address formatting, so it's essential to follow the specified guidelines to avoid errors."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23054",
+      "intent": "set_up_shipping_address",
+      "reason": "qualified-service-intent",
+      "sentence": "If you continue to experience difficulties, please provide more specific details about the error messages or the steps you've taken so far, and we'll work together toward finding a solution."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:523",
+      "intent": "cancel_order",
+      "reason": "qualified-service-intent",
+      "sentence": "5. Complete Any Further Steps: The system might ask you to confirm your cancellation or provide feedback."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11039",
+      "intent": "delete_account",
+      "reason": "qualified-service-intent",
+      "sentence": "Remember, there are no wrong questions, and our goal is to ensure that you have a smooth experience."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11420",
+      "intent": "delete_account",
+      "reason": "qualified-service-intent",
+      "sentence": "I understand that you may have specific reasons for wanting to cancel, and I'm here to assist you through the process."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7330",
+      "intent": "complaint",
+      "reason": "qualified-service-intent",
+      "sentence": "Our aim is to provide excellent service, and we always strive to meet our customers' needs."
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12009",
+      "intent": "delivery_options",
+      "reason": "qualified-service-intent",
+      "sentence": "Please keep in mind that the exact delivery times may vary based on factors such as location, item availability, and shipping method chosen."
+    }
+  ],
+  "positive_ids": {
+    "cancel-context-completeness": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17513"
+    ],
+    "cancel-whole-sentence": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17627",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17029",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17463",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17046",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17116"
+    ],
+    "privacy-account-setup": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10148"
+    ],
+    "privacy-whole-sentence": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10745",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10044",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9930",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10135",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17345"
+    ],
+    "resolution-whole-sentence": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16363",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16394",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17941",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18647",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:774"
+    ],
+    "v1-seam": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26329",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18775",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18809",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15952",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7833"
+    ]
+  },
+  "selection": "lowest SHA256(target-controls-v2:42:ID), up to5 per kind; excluded up to20"
+}

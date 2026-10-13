@@ -1,0 +1,291 @@
+{
+  "excluded_service_intent": [
+    {
+      "context": "Their primary goal is to ensure a fair resolution and your satisfaction.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6979",
+      "intent": "complaint",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-fair"
+    },
+    {
+      "context": "Your satisfaction is our top priority, and we want to ensure a swift resolution for you.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26406",
+      "intent": "track_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-swift"
+    },
+    {
+      "context": "We take such matters seriously and want to ensure a smooth resolution process for you.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6946",
+      "intent": "complaint",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "We appreciate your patience and cooperation as we work towards resolving your request and ensuring a satisfactory resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16834",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensuring-satisfactory"
+    },
+    {
+      "context": "Your satisfaction is my priority, and I'll do everything I can to ensure a satisfactory resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16389",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    },
+    {
+      "context": "Rest assured, I will do my utmost to ensure a swift resolution and keep you updated on the progress.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16746",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-swift"
+    },
+    {
+      "context": "Thank you for choosing us to help you with your refund, and I assure you that I will do my utmost to ensure a satisfactory resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16125",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    },
+    {
+      "context": "Rest assured, I am here to assist you every step of the way and ensure a smooth resolution to any problems you may be experiencing with deleting your standard account.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11068",
+      "intent": "delete_account",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "Your cooperation in this matter will ensure a smooth resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26327",
+      "intent": "track_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "Remember, you are not alone in this, and I am dedicated to working with you to ensure a satisfactory resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15962",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    },
+    {
+      "context": "Rest assured, I'll do my best to ensure a satisfactory resolution and that you feel valued throughout the process.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16283",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    },
+    {
+      "context": "Rest assured, we'll do everything we can to ensure a swift resolution and keep you informed throughout the process.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6768",
+      "intent": "check_refund_policy",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-swift"
+    },
+    {
+      "context": "We appreciate your understanding, and we're here to help ensure a smooth resolution for you.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:382",
+      "intent": "cancel_order",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "We understand the importance of this cancellation for you and will do our best to ensure a smooth resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:852",
+      "intent": "cancel_order",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "Let's work together to quickly find out the current status and ensure a smooth resolution for you.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26728",
+      "intent": "track_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "Your feedback will allow us to address the issues promptly and ensure a satisfactory resolution for you.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1945",
+      "intent": "change_order",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    },
+    {
+      "context": "With this information, I will be able to provide you with the necessary steps to request a rebate and help ensure a smooth resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16468",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-smooth"
+    },
+    {
+      "context": "Rest assured, together we will work towards resolving your issue and ensuring a satisfactory resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16867",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensuring-satisfactory"
+    },
+    {
+      "context": "Remember, I'm committed to working with you every step of the way to ensure a satisfactory resolution.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16782",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    },
+    {
+      "context": "Rest assured, we value your satisfaction as a customer, and we will make every effort to ensure a satisfactory resolution to this matter.",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16499",
+      "intent": "get_refund",
+      "reason": "service-intent qualifier",
+      "rule_id": "resolution-ensure-satisfactory"
+    }
+  ],
+  "positive_ids": {
+    "cancel-22": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17311"
+    ],
+    "cancel-23": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17805"
+    ],
+    "cancel-24": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17075",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17654",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17891",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17361",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17296"
+    ],
+    "cancel-25": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17186",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16913",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17261",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16978",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17687"
+    ],
+    "cancel-26": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17092",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17032",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17717",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17599",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17581"
+    ],
+    "privacy-10": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10693"
+    ],
+    "privacy-13": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10798",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10173",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10767",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17264",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17165"
+    ],
+    "privacy-15": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10148",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10158"
+    ],
+    "privacy-16": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10065"
+    ],
+    "privacy-17": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9996",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10575",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10440",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17329",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10707"
+    ],
+    "privacy-19": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17425",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17584",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17739"
+    ],
+    "privacy-21": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17449",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17326",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17377",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17727",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17731"
+    ],
+    "resolution-ensure-fair": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7203",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7750",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15952",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7655"
+    ],
+    "resolution-ensure-satisfactory": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16532",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16743",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4265",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16172",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18737"
+    ],
+    "resolution-ensure-smooth": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25935",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11388",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20732",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:463",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20616"
+    ],
+    "resolution-ensure-smooth-and-satisfactory": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16027",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11863",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16089"
+    ],
+    "resolution-ensure-swift": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1012",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26472",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14930",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26642",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20183"
+    ],
+    "resolution-ensuring-fair": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7722",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7645",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7668",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7007",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7167"
+    ],
+    "resolution-ensuring-satisfactory": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16246",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16189",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16418",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16098",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16472"
+    ],
+    "resolution-ensuring-smooth": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4362",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:450"
+    ],
+    "resolution-ensuring-smooth-and-satisfactory": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15951",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16608"
+    ],
+    "resolution-ensuring-swift": [
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16821",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16547",
+      "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:101"
+    ]
+  },
+  "selection": "lowest SHA256(target-controls-v1:42:ID), up to5 per active rule",
+  "unchanged_ids": [
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12865",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20335",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26849",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8342",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15193",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21030",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18841",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20643",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25256",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21013",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20151",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2545",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2322",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8540",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9220",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17104",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8469",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22203",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2000",
+    "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14010"
+  ]
+}

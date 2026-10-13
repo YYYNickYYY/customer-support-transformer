@@ -1,0 +1,3761 @@
+[
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Safeguarding your privacy remains our priority, and I assure you that your personal information will be handled with utmost care.",
+    "id": "sentence-00d43a5177ab84a3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and we'll take every measure to safeguard your information.",
+    "id": "sentence-026a39b920a55782",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information will be handled with the utmost care and in accordance with our privacy policy.",
+    "id": "sentence-0353edcca572c521",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your information will be handled with the highest level of care.",
+    "id": "sentence-05313ad9a965429c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the information you share will be handled with the utmost care and privacy.",
+    "id": "sentence-0701449dd2d9728c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We prioritize your privacy and assure you that your personal information will be handled securely.",
+    "id": "sentence-08c64099a4ba9de6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and guarantee that the information shared will be handled securely.",
+    "id": "sentence-08efda4d5e075575",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our utmost priority, and we'll handle your information with the highest level of care.",
+    "id": "sentence-099d0ad973ad7e28",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, her security and privacy are of utmost importance to us, and every piece of information shared will be handled with the utmost care.",
+    "id": "sentence-0accae2d6f8cdd49",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and we'll safeguard your information with the highest level of care.",
+    "id": "sentence-0afe1ee69cbe4598",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, ensuring that her information will be handled with the utmost care.",
+    "id": "sentence-0b1a0a0043927cef",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "You can trust that your privacy and security are of the utmost importance to us, and we'll handle your information with the highest level of care.",
+    "id": "sentence-0b61d7ff74a41b79",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and your personal information will be handled with the utmost care.",
+    "id": "sentence-0b6aa3768c66c662",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers' information, and every piece of data shared will be safeguarded with utmost care.",
+    "id": "sentence-0b6dfd2e7849e2c0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we respect your preferences, and your information will be handled with the utmost care.",
+    "id": "sentence-0bc59d18746abe4a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please be assured that we prioritize the security and privacy of our customers, and every detail shared with us will be handled with the utmost care and discretion.",
+    "id": "sentence-0bc991106ba39e22",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our users, so your wife's information will be handled with the utmost care.",
+    "id": "sentence-0ca4840a99ced1ae",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your fiance's security and privacy are of utmost importance to us, so rest assured that all information shared will be handled with the utmost care.",
+    "id": "sentence-0d878a76c646f995",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her security and privacy are our utmost priority, and all the information shared will be handled with strict confidentiality.",
+    "id": "sentence-0dd8176ed64f1780",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your email will be handled with utmost care and privacy.",
+    "id": "sentence-0e6816fe28add6c7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, so rest assured that your personal information will be treated with the utmost care and will only be used for the purpose of sending you our newsletter.",
+    "id": "sentence-0ed2ad1d6546f421",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security of our users' information, and all data shared will be handled with utmost care and confidentiality.",
+    "id": "sentence-0efc0dc3d23aac14",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize your privacy and will handle your personal information with utmost care.",
+    "id": "sentence-0f27301dae8ae4ad",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your security and privacy, and every piece of information shared will be handled with the utmost care.",
+    "id": "sentence-110d3dd8d0ee46a9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Your satisfaction is my top priority, and I'm committed to ensuring a positive resolution.",
+    "id": "sentence-11271147f14e9b2f",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We prioritize your security and privacy, so you can trust that your information will be handled with the utmost care.",
+    "id": "sentence-1181ce5fe421fe80",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we take the security and privacy of our customers' information very seriously, so you can trust that her data will be protected with the utmost care.",
+    "id": "sentence-11c4509048ae4339",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our top priorities, and any information you provide will be kept confidential.",
+    "id": "sentence-134b2cb69e8405dd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize your security and privacy, and all the information you share with us will be handled with utmost care and confidentiality.",
+    "id": "sentence-14528c97ede719b8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information provided will be handled with utmost care to ensure your father's privacy and security.",
+    "id": "sentence-1493866ff8c53410",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our users, so any information you share will be treated with the utmost care.",
+    "id": "sentence-14e424be38b74b88",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, so rest assured that your information will be handled with the highest level of care.",
+    "id": "sentence-14f03f8ecf45b29b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and your personal information will be handled with the highest level of care.",
+    "id": "sentence-165b45d7a4c51932",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our top priorities, and your information will be handled with the utmost care.",
+    "id": "sentence-16be3b72f5b6322c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, and your data will be handled with utmost care.",
+    "id": "sentence-180667e660aa8f72",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the security and privacy of her personal information are of utmost importance to us, and we'll handle it with the highest level of care.",
+    "id": "sentence-199e0dbd9d650006",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, and any information you provide will be handled with utmost care.",
+    "id": "sentence-19d9f540eb40107d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, so all your information will be protected with utmost care.",
+    "id": "sentence-1a3fb9c4710b9653",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be handled with the utmost care and privacy.",
+    "id": "sentence-1a7d3ff6b2bad9b4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We respect your privacy and will handle your information with utmost care.",
+    "id": "sentence-1ae9eb117944ec6a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your fiance's privacy and security are our top priorities, and we will handle their information with the utmost care.",
+    "id": "sentence-1afe4a7582827ce1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I understand the importance of addressing your concerns and ensuring that they are properly resolved.",
+    "id": "sentence-1b9d5abfbb8b812f",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that all personal information will be treated with the utmost confidentiality.",
+    "id": "sentence-1baf67827c313eaa",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers, so all information shared will be handled with the utmost care.",
+    "id": "sentence-1bb30ed2e4ea902d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, we prioritize your privacy and security, so you can trust that your information will be handled with the utmost care.",
+    "id": "sentence-1c64a4c8314cb7d9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I will ensure that you are promptly removed from our mailing list.",
+    "id": "sentence-1c7506e108be3138",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers' information, so you can trust that her data will be safeguarded.",
+    "id": "sentence-1cb9e25b1b7063c7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Together, we'll ensure a swift and satisfactory resolution.",
+    "id": "sentence-1d3e378a7ebe01af",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be handled securely and confidentially.",
+    "id": "sentence-1d941680993940a4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please rest assured that the information you share with us will be safeguarded with the utmost care.",
+    "id": "sentence-1e9bebabb1d93469",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we'll take every step to ensure the security and privacy of their information.",
+    "id": "sentence-1e9cbcf47fa0069d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is of utmost importance to us, and we will handle your email address with the highest level of security and care.",
+    "id": "sentence-1f2d5fdb96c54761",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I want to emphasize that privacy and security are of utmost importance to us, so rest assured that every piece of information shared will be kept confidential.",
+    "id": "sentence-20466a6dcd0a0bd3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we respect your privacy and will handle your information with utmost care.",
+    "id": "sentence-209cac155344c772",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the security of your dad's information is of utmost importance, and we will take every measure to safeguard his privacy and protect his data.",
+    "id": "sentence-2121c5a17c9ef29e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your details with the utmost care.",
+    "id": "sentence-21527292a4380570",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers, and all the information provided will be handled with the utmost care.",
+    "id": "sentence-220aa3497f6ec61d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will remain confidential and secure.",
+    "id": "sentence-232c2e89025db0c1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of the utmost importance to us, so rest assured that your information will be protected.",
+    "id": "sentence-24bdac30b0055b8f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her security and privacy are of utmost importance to us, and we'll safeguard her personal information with utmost care.",
+    "id": "sentence-24e1f23ba5e05beb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your fiance's data will be securely protected.",
+    "id": "sentence-250e3c2bf11b7234",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be kept confidential and secure.",
+    "id": "sentence-25b4313c99501611",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "They will ensure that your concerns are properly addressed and resolved.",
+    "id": "sentence-2672fa3ad1fba589",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Let me know if there's anything else I can help you with - I'm here to ensure your query is resolved smoothly!",
+    "id": "sentence-269b379c49353bef",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and rest assured, all your personal information will be handled with the highest level of confidentiality.",
+    "id": "sentence-272d200c7c1943c5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We're here to ensure your issue gets resolved as quickly and smoothly as possible.",
+    "id": "sentence-2737deedf74ecc0e",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information will be handled with the utmost care and security.",
+    "id": "sentence-275a1ca0be6b16b6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, so your information will be safeguarded at all times.",
+    "id": "sentence-2773c062636ae40b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I assure you that we value your trust and that the security and privacy of your dad's information will be handled with the utmost care.",
+    "id": "sentence-279fa3273ee34237",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, and we'll handle your data with the utmost care.",
+    "id": "sentence-27eafe4852a6b6af",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our top priorities, so any information you share will be securely handled.",
+    "id": "sentence-28338cfb5c821d25",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "You can trust that we will handle your information with the utmost care and respect your privacy.",
+    "id": "sentence-29dabd8ff1e7f42c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have the information, I will ensure that your subscription is cancelled promptly.",
+    "id": "sentence-2a0b49d056bb90cd",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your information will be handled securely and with the utmost confidentiality.",
+    "id": "sentence-2a0be6bebf6fafea",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "And don't worry, we value your privacy and will handle your personal information with the utmost care and security.",
+    "id": "sentence-2a1340afd025b769",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of your information and will handle it with the utmost care.",
+    "id": "sentence-2a48afab84907701",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, all the details you provide will be handled with utmost care and privacy.",
+    "id": "sentence-2a78b9e5d7b65ef7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Your feedback is essential in our continuous improvement efforts, and I'm committed to ensuring a satisfactory resolution.",
+    "id": "sentence-2b4f740e298d09f7",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Customer satisfaction is our top priority, and we are committed to ensuring that your signup issues are resolved promptly.",
+    "id": "sentence-2be4c52cc81b5482",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and we will take all necessary measures to protect your data.",
+    "id": "sentence-2bf0ab08419f12f8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your security and privacy, and all the information you provide will be handled with utmost care and confidentiality.",
+    "id": "sentence-2c8eae2a5b37a8aa",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once we have the necessary information, we will promptly process your request and ensure that you are unsubscribed from our newsletter.",
+    "id": "sentence-2d1a2b4c6a446ac1",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the security and privacy of your dad's information are of utmost importance to us, and we will handle it with great care.",
+    "id": "sentence-2e9a33a5455afac4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please rest assured that we prioritize your security and privacy, and every piece of data you share with us will be handled with the utmost care.",
+    "id": "sentence-2eb98694fa35c965",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will be handled with the utmost care and security.",
+    "id": "sentence-2f12c94e74b2e286",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the information you provide will be kept confidential and secure.",
+    "id": "sentence-2f580cf4f1182b5e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Your request to unsubscribe has been duly noted, and I'll ensure that it is promptly processed.",
+    "id": "sentence-30a5d8aa396e9f0c",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Also, rest assured that we value your privacy, and your email address will be handled with the utmost care.",
+    "id": "sentence-30ae03d0faea3fd4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to guide you through the process and ensure you receive the resolution you're looking for.",
+    "id": "sentence-313b1878c387d125",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please rest assured that we prioritize security and privacy, and every piece of information shared will be handled with the utmost care.",
+    "id": "sentence-31f7f468e203db6b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance, and we will take every measure to protect your personal information.",
+    "id": "sentence-3250c84f31df9ff5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers, and every piece of data shared will be handled with the utmost care.",
+    "id": "sentence-327d4a1641a58a33",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your personal information will be handled with the utmost care and privacy.",
+    "id": "sentence-32b8c0e717bb36d6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and we'll handle your data with the utmost care.",
+    "id": "sentence-3390c932a5203c49",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your information with the highest level of security.",
+    "id": "sentence-344048f8945b3006",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Your feedback is invaluable, and we are committed to addressing your concerns and ensuring a satisfactory resolution.",
+    "id": "sentence-3489ea8a3c8ddaf7",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is of utmost importance to us, and we'll handle your data with the utmost care.",
+    "id": "sentence-34d62983dc2ddaa9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, we are committed to ensuring that you receive the appropriate rebates and find a satisfactory resolution.",
+    "id": "sentence-3515e897811f28c0",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the security and privacy of your information are of utmost importance to us, and they will be safeguarded with the highest level of care.",
+    "id": "sentence-35b9e19bfe5b2123",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us, and we will take all necessary measures to protect your information.",
+    "id": "sentence-35e7f7e069e5be6a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Remember, we are committed to providing excellent service to all our valued customers and we will ensure that everything is resolved to your satisfaction.",
+    "id": "sentence-3751e74908f38474",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, her security and privacy are our top priorities, and we will handle her information with the utmost care.",
+    "id": "sentence-379321f34fb0cdeb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is important to us, and rest assured that any information you provide will be handled securely and in accordance with our privacy policy.",
+    "id": "sentence-38260ccd3090e75b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm available to assist you at every turn, ensuring a smooth and efficient resolution.",
+    "id": "sentence-384ce795ec6a2e1d",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the information you share with us will be treated with the utmost confidentiality and security.",
+    "id": "sentence-3862611330f89356",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, your privacy and security are our top priorities, so you can trust that all your information will be handled with the utmost care.",
+    "id": "sentence-38bb8fe8c910d856",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I'll personally ensure that you are unsubscribed from our corporate newsletter as soon as possible.",
+    "id": "sentence-3912e2e69b61f6f3",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your mom's security and privacy are of utmost importance to us, and we'll take all necessary measures to safeguard her information.",
+    "id": "sentence-3932e989b8dc8a25",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I'll ensure that you're successfully unsubscribed from our newsletter.",
+    "id": "sentence-39b92c7307ba9ce9",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your privacy and will handle your information with the utmost care and security.",
+    "id": "sentence-3a5848f8a208b44b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the security and privacy of your dad's information are of utmost importance to us, so his personal data will be handled with the highest level of care.",
+    "id": "sentence-3a619d318fe8bfb4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are our top priorities, so rest assured that your data will be handled with the utmost care.",
+    "id": "sentence-3a83f64bd1dc06f2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, so rest assured that the information you share will be kept confidential.",
+    "id": "sentence-3aa677022b0a1dde",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, every piece of information shared will be handled with the utmost care and security.",
+    "id": "sentence-3b0a939d59179348",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, so rest assured that your data will be secured with the highest level of care and confidentiality.",
+    "id": "sentence-3b6f9c46f2c4a062",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy and assure you that your information will be handled with utmost care.",
+    "id": "sentence-3c8fd68ecc071c4f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I want to emphasize that your security and privacy are of utmost importance to us, and we will handle your information with the highest level of care.",
+    "id": "sentence-3cb693f80a1d35a9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your trust and will handle your information securely.",
+    "id": "sentence-3ce3a2affc0c7f21",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize security and privacy, so your dad's information will be treated with the utmost care.",
+    "id": "sentence-3d039313bf9259b6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our users, and her information will be treated with the utmost care.",
+    "id": "sentence-3d2b21059fcc6a9e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, and we assure you that all the information you share will be treated with the utmost care and confidentiality.",
+    "id": "sentence-3d2b9047154fcd9e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your privacy and will handle your data with the utmost care.",
+    "id": "sentence-3db249688fbf616a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your wife's security and privacy are of utmost importance to us, and we will handle her information with the utmost care.",
+    "id": "sentence-3f63c75c5cc7118c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your account details will be handled with the utmost care and accuracy.",
+    "id": "sentence-3ff47f98b1c65414",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information you provide will be kept confidential and securely stored.",
+    "id": "sentence-4038aa72a125f8ef",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, so her information will be handled with the utmost care.",
+    "id": "sentence-408480d3666e8f6d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our top priority, and all the information provided will be handled with the utmost care.",
+    "id": "sentence-409a348f31109f48",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers' information, and all data will be handled with the utmost care.",
+    "id": "sentence-40c794143cfb0c8e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers' data, and every piece of information you share will be handled with the utmost care.",
+    "id": "sentence-40fc4ef2cdefae57",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, so rest assured that your email address and personal information will be handled with the utmost care and protection.",
+    "id": "sentence-419c22496074b6e2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Your privacy is important to us, and we will ensure that your information is removed from our mailing list promptly.",
+    "id": "sentence-41b5868069722bfa",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is of utmost importance to us, and we will handle your data with the highest level of security and confidentiality.",
+    "id": "sentence-4309960ff18d02d1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her security and privacy are of utmost importance to us, and we will handle her information with the highest level of care.",
+    "id": "sentence-433547d486d98874",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your information with the highest level of security and care.",
+    "id": "sentence-43969a0f21a87255",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, your security and privacy are of the utmost importance to us, so rest assured that any information you provide will be handled with the highest level of care.",
+    "id": "sentence-458b78d19847072d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "They will guide you through the process and ensure that the error is resolved as quickly as possible.",
+    "id": "sentence-45e3854749b16aec",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to help guide you through the process and ensure that you receive a satisfactory resolution.",
+    "id": "sentence-462f4b83548db113",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, so rest assured that your information will be handled with the utmost care and confidentiality.",
+    "id": "sentence-477f7673bbad679d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our dedicated support team will assist you promptly and ensure that your sign-up issues are resolved as quickly as possible.",
+    "id": "sentence-47a0c9030c3d3c14",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our utmost priorities, and all your information will be handled with the utmost care.",
+    "id": "sentence-48276fb591013101",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured, we will respect your privacy and ensure that your subscription is canceled without delay.",
+    "id": "sentence-48ab1447b826d29b",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, the security and privacy of your information are of utmost importance to us, and we will handle your data with the utmost care.",
+    "id": "sentence-4928681894564a7f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that their data will be securely handled and treated with the utmost care.",
+    "id": "sentence-49a8c9573736be3a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and we'll take every measure to protect your information.",
+    "id": "sentence-4a5f7239ada821c1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We take your security and privacy very seriously, so you can rest assured that all your information will be handled with the utmost care.",
+    "id": "sentence-4c590ead1c390614",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that any data shared will be handled securely and responsibly.",
+    "id": "sentence-4c9d68d0d81da6e7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and security, and your information will be handled with utmost care.",
+    "id": "sentence-4cb61045d13f7fcd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, so her information will be handled with utmost care.",
+    "id": "sentence-4ccd5dabb0819e13",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your information with the utmost confidentiality.",
+    "id": "sentence-4d5a2282351b7c98",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, so rest assured that your information will be handled with the utmost care.",
+    "id": "sentence-4dad49112dec3bd4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Remember, I'm here to support you every step of the way and ensure you have a positive resolution.",
+    "id": "sentence-4e0ef27a582e2e49",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information will be handled with the utmost security and confidentiality.",
+    "id": "sentence-4e434419e94945aa",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "To help us review your claim, could you please provide me with its details?",
+    "before": "To work towards a resolution process, could you please provide me with the details of your claim?",
+    "id": "sentence-4ed25516829d724c",
+    "intent": "*",
+    "kind": "v1-seam"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our top priorities, and we will protect your information with utmost care.",
+    "id": "sentence-4f17ec3841c9245a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Your request will be promptly addressed to ensure your subscription is canceled.",
+    "id": "sentence-4f40ce56e830a5ee",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We're here to ensure your questions are answered and your concerns are resolved.",
+    "id": "sentence-4f7bb5a1c9170034",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers' personal information, and all data will be handled with the utmost care.",
+    "id": "sentence-4f9e05b385aba027",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, and all information shared will be handled with the utmost care.",
+    "id": "sentence-508b7c14cba862fe",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that his security and privacy are of the utmost importance to us, and we will handle his personal information with the utmost care.",
+    "id": "sentence-509defab9365bd0e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we will handle her data with the highest level of care and protection.",
+    "id": "sentence-50d6c17536be9dc5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, so his information will be handled with the utmost care.",
+    "id": "sentence-514332ebc6b28387",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and we assure you that your information will be handled with the utmost care.",
+    "id": "sentence-51a603eaa151652f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, so rest assured that all your data will be protected with the highest level of care.",
+    "id": "sentence-51cfda2597e368d3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers, so her data will be handled with the utmost care.",
+    "id": "sentence-51feb9f6dfe4f7d2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Any information you share will be handled with the utmost care and protection.",
+    "id": "sentence-52fc398bd376978f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our team will guide you through the process and ensure that the errors are properly communicated and resolved.",
+    "id": "sentence-5307976c04736c73",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We will handle your dad's personal information with the utmost care and confidentiality.",
+    "id": "sentence-53cba429ab4a35a3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we respect your privacy and will handle your data with utmost care.",
+    "id": "sentence-53dc2e2075bf6f43",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are our top priorities, and we'll handle your information with the utmost care and confidentiality.",
+    "id": "sentence-546331a5223f3fa0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information you share with us will be kept secure and confidential.",
+    "id": "sentence-5490fc888bffe3f3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your personal information will be handled with the highest level of care and confidentiality.",
+    "id": "sentence-5593b212e85918e2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will be handled securely and with utmost care.",
+    "id": "sentence-5637b12a67d8a9c2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your personal information securely.",
+    "id": "sentence-566a3ef3ae91bff3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our top priorities, and all information you share will be treated with the utmost care.",
+    "id": "sentence-56995410240f71be",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the information you provide will be handled with the utmost care and privacy.",
+    "id": "sentence-573848cc40026076",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, we prioritize the security and privacy of our customers, so rest assured that all information will be handled with utmost care.",
+    "id": "sentence-574314d6bf774693",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize privacy and security, and your son's information will be handled with the utmost care.",
+    "id": "sentence-5782bde0c7bcc26e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and all your information will be handled with the utmost care.",
+    "id": "sentence-57b986c8868a5933",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our team will ensure that your claim is thoroughly reviewed and resolved as quickly as possible.",
+    "id": "sentence-57e61f68064b4802",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "They will guide you through the process and ensure that your issue is properly documented and resolved.",
+    "id": "sentence-5801df44d23869d6",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, so every piece of data you share will be protected with the utmost care.",
+    "id": "sentence-588eb4b4d059d06b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm here to ensure that you receive the support you need and that your concern is resolved satisfactorily.",
+    "id": "sentence-5934bc11a24ae336",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to help guide you through the process and ensure that you receive the appropriate resolution.",
+    "id": "sentence-5981bdfc1e941436",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and your information will be handled with utmost care.",
+    "id": "sentence-59b90c16a04f6c0e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, his security and privacy are of utmost importance to us, and we'll handle his information with the utmost care and confidentiality.",
+    "id": "sentence-5a453ccba4f749de",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the safety and privacy of your daughter's data is our top priority, and we'll handle it with the utmost care.",
+    "id": "sentence-5a5656f60418500e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is of utmost importance to us, and we will handle your data securely.",
+    "id": "sentence-5ab1fdf1c821acda",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize your security and privacy, so any information you share with us will be handled with utmost care.",
+    "id": "sentence-5ae9e7b224544ba8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We will handle all the personal information shared with the utmost care and confidentiality.",
+    "id": "sentence-5af36954412bac5a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your data with the highest level of care.",
+    "id": "sentence-5b4986840d8061a7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our dedicated team will assist you promptly and ensure the issue is resolved efficiently.",
+    "id": "sentence-5bfbe39e76c52345",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, so your information will be handled with the highest level of care.",
+    "id": "sentence-5c8f51aaaea87e37",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, and all the information you provide will be handled with the utmost care.",
+    "id": "sentence-5ec5e79cba756c2e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of the utmost importance to us, and we will handle your information with the highest level of care.",
+    "id": "sentence-5ff699922c1277f4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we take your privacy seriously and will handle your information with utmost care.",
+    "id": "sentence-6102db861f31c990",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, and rest assured that any information you share will be handled with the utmost care.",
+    "id": "sentence-619cda267ceb9720",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Don't worry, I'll be with you every step of the way to ensure a personalized and satisfactory resolution.",
+    "id": "sentence-61c32bebcbabfd34",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our dedicated team will guide you through the process and ensure that your claim is properly addressed and resolved.",
+    "id": "sentence-61eaf2f0badbdaa8",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "And remember, your security is of utmost importance to us, so all your information will be handled with the highest level of confidentiality and care.",
+    "id": "sentence-61f1baab29f05cdb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your information securely.",
+    "id": "sentence-622153ab0ea40e69",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I will ensure your subscription is promptly canceled.",
+    "id": "sentence-6382397dea81babb",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Security and privacy are paramount to us, so rest assured that your personal information will be handled with the utmost care.",
+    "id": "sentence-6396d3aeea72ac67",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your privacy and security are our top priorities, and your information will be protected.",
+    "id": "sentence-63d1306a344fd245",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her privacy and security are of utmost importance to us, and we'll handle her information with the highest level of care.",
+    "id": "sentence-6421c37fa4fe4bbb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we take your privacy and security very seriously, and all the information you provide will be treated with the utmost care.",
+    "id": "sentence-64359ac53a0739fc",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we take the security and privacy of your data very seriously, and your information will be handled with the utmost care.",
+    "id": "sentence-646da57f0cb0b82a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize your security and privacy, and your information will be handled with the utmost care.",
+    "id": "sentence-6481fd0287472f58",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We greatly value your trust and satisfaction, and we're committed to ensuring a positive resolution for you.",
+    "id": "sentence-6622463566d50b89",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy remain our utmost priority, and any data you share with us will be handled with the highest level of care.",
+    "id": "sentence-67489ef6259fc611",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the security and privacy of your data are of utmost importance to us, and we will handle it with the utmost care.",
+    "id": "sentence-674bee8829a89ac2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our users' data, and every piece of information shared will be treated with the utmost care.",
+    "id": "sentence-67f033ca4de0e792",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your data with the utmost care.",
+    "id": "sentence-68710ef1931d7276",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Together, we'll ensure that your payment issue is resolved successfully.",
+    "id": "sentence-688b55d8b59706a3",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers, so all the information you share with us will be treated with the utmost care.",
+    "id": "sentence-68e17c6202aed314",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of all our users, and your wife's information will be handled with the utmost care.",
+    "id": "sentence-68f00bec5b4471df",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be treated with utmost care and privacy.",
+    "id": "sentence-690f0a480d01d9ce",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your personal data with the utmost care.",
+    "id": "sentence-69729a90f0c2c036",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your data with utmost care and confidentiality.",
+    "id": "sentence-69922deaa4f0f99e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we value your privacy, and your email address will be handled with the utmost care.",
+    "id": "sentence-699c5e640490dafd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we value privacy and security, so all the information provided will be treated with the utmost care.",
+    "id": "sentence-69bbdf9c79613b4c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, her privacy and security are our top priorities, and her information will be handled with the utmost care.",
+    "id": "sentence-69eb9674b20191f5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "To ensure a prompt resolution, our dedicated customer support team is here to assist you every step of the way.",
+    "id": "sentence-6a6ed0213c3e380a",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the information you provide will be handled with the utmost care and kept secure.",
+    "id": "sentence-6a9ff28996186372",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your security and privacy are of utmost importance to us, and we will safeguard your information diligently.",
+    "id": "sentence-6ac6685b6fa00708",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we hold our customers' privacy in the highest regard, and we will treat your information with the utmost confidentiality.",
+    "id": "sentence-6afdc1237cc70f71",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We appreciate your patience and understanding while we review your request and consider the next steps.",
+    "before": "We appreciate your patience and understanding while we work to work towards a resolution for you.",
+    "id": "sentence-6c5813bbd24fab2f",
+    "intent": "*",
+    "kind": "v1-seam"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our utmost priority, and we will handle your information with utmost care.",
+    "id": "sentence-6ce468dda70b429a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have the necessary information, I will personally ensure that your subscription is cancelled promptly.",
+    "id": "sentence-6d090a14d06453c8",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please rest assured that we prioritize the security and privacy of our customers, and your personal information will be handled with the utmost care.",
+    "id": "sentence-6dedeec79b934dce",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Just a friendly reminder, your security and privacy are of utmost importance to us, so your information will be handled with the highest level of care.",
+    "id": "sentence-6e7c51d6faee8283",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, so you can trust that your information will be protected.",
+    "id": "sentence-6f1e98c6bf601ccd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We'll take every precaution to safeguard his data.",
+    "id": "sentence-6f99f040ae7d4b0f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "I can help you review the account setup steps.",
+    "before": "Once I have these details, I'll ensure that your account is set up smoothly and securely.",
+    "id": "sentence-6fe54367a7765d13",
+    "intent": "*",
+    "kind": "privacy-account-setup"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm here to guide you through the process and ensure a positive resolution.",
+    "id": "sentence-7081ff960fb09e6d",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be handled with the utmost care and security.",
+    "id": "sentence-709d754fc4943879",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your personal information responsibly.",
+    "id": "sentence-710a06fe8f05d6e9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of your personal information, and it will be handled with the utmost care.",
+    "id": "sentence-7174894688f998a8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, so rest assured that your information will be handled with utmost care.",
+    "id": "sentence-71e7ccb72b37bdaa",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Safeguarding your preferences and privacy is of utmost importance to us, so please rest assured that your information will be handled with the highest level of respect and confidentiality.",
+    "id": "sentence-71eb65bece28ef1b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we value your privacy and will handle your information responsibly.",
+    "id": "sentence-720bcc4ab2ac33a3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is of utmost importance to us, and we will handle your information with the highest level of security and confidentiality.",
+    "id": "sentence-7228268c0c7e72f5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Any information shared will be handled with the utmost care and confidentiality.",
+    "id": "sentence-723ab1ac9fa65eda",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and your information will be treated with the strictest confidentiality.",
+    "id": "sentence-7263d070d6130c39",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to help guide you through this process and ensure that you receive the appropriate resolution.",
+    "id": "sentence-728402309a4a863c",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information you provide will be handled with the utmost care and kept secure.",
+    "id": "sentence-7293b53672bc626b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are our top priorities, and we will handle your information with utmost care.",
+    "id": "sentence-73953ed0a58a180f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your information with the utmost security.",
+    "id": "sentence-741ca0a54d324773",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and I assure you that the information you share will be handled with complete confidentiality.",
+    "id": "sentence-74e03b8ab320f7c8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we will handle this with utmost care and privacy.",
+    "id": "sentence-74e8f28ebb89664b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your data with the highest level of security.",
+    "id": "sentence-75455fdb53552342",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, their security and privacy are our top priority, and we will handle their information with the utmost care.",
+    "id": "sentence-755731a2631984a6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, your security and privacy are our utmost priority, and all information you share will be handled with the utmost care.",
+    "id": "sentence-75994c5b80fb5ecd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal details will be kept confidential and secure.",
+    "id": "sentence-759c04db690091b3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information will be securely stored and protected.",
+    "id": "sentence-76243c14a9df0497",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Thank you for your cooperation, and rest assured that we will handle your request promptly and ensure that you are unsubscribed from the newsletter.",
+    "id": "sentence-766183a087703505",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your father's security and privacy are of utmost importance to us, and we will handle his information with the utmost care.",
+    "id": "sentence-76dbdc15b29846e8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is important to us, and we will handle your information with utmost care and confidentiality.",
+    "id": "sentence-76e801af82a47e18",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your data will be handled with the utmost care and protection.",
+    "id": "sentence-78087bf7430e1e55",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'll be with you every step of the way, ensuring that your concerns are acknowledged and resolved satisfactorily.",
+    "id": "sentence-78a6ce2ebf691828",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We are committed to assisting you every step of the way and ensuring a successful resolution to this matter.",
+    "id": "sentence-78b17b954a740895",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, and all the information you share with us will be protected with utmost care.",
+    "id": "sentence-79cc2b5330c726e0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your privacy and data protection, so your email will be handled with the utmost care.",
+    "id": "sentence-79f78901801b1757",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, so all the data you share will be treated with the utmost care.",
+    "id": "sentence-79ffbed63f40d69c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and any information you provide will be handled with the utmost care.",
+    "id": "sentence-7b073f88151b4637",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "With that information, I will personally ensure that your request to unsubscribe is processed promptly and accurately.",
+    "id": "sentence-7b780afbf34b0c1a",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we respect your preferences and your privacy, and your request will be handled with utmost care.",
+    "id": "sentence-7be5545976c23d1d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Be assured that every piece of data you share will be handled with the utmost care and confidentiality.",
+    "id": "sentence-7cdfaaa24126e3aa",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, and all personal information will be treated with the utmost care.",
+    "id": "sentence-7d0cb5091fa57158",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your wife's privacy and security are of utmost importance to us, and we will handle her personal information with the utmost care.",
+    "id": "sentence-7e08d46b331ff2eb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We are here to assist you throughout this process and ensure a seamless resolution.",
+    "id": "sentence-7f05e08ba4e61cee",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, your security and privacy are of utmost importance to us, and any information you provide will be treated with the highest level of care and protection.",
+    "id": "sentence-7fe13c47e929d057",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the security and privacy of your wife's data are of utmost importance to us, and we'll handle it with the highest level of care.",
+    "id": "sentence-80857a73c222cc8c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the privacy and security of your information, and it will be treated with the utmost care.",
+    "id": "sentence-80c6570482fde335",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and we'll handle your data with the utmost care and confidentiality.",
+    "id": "sentence-80e0c0c0b1a75d35",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our dedicated support team will be more than happy to assist you further and ensure that your signup issues are resolved as quickly as possible.",
+    "id": "sentence-81bf12378c42fbb8",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we fully respect your privacy and will handle your information with utmost care.",
+    "id": "sentence-820c17d81722f75d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our top priorities, and any information shared will be handled with the utmost care.",
+    "id": "sentence-82c55ab1ef26c20a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is important to us, and I assure you that any information you provide will be handled with the utmost confidentiality.",
+    "id": "sentence-833e51164e97a3cb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information you share will be handled with the highest level of care and protection.",
+    "id": "sentence-85dc4ad6f538b457",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and we will handle your information with the highest level of care and protection.",
+    "id": "sentence-86559bd8ace148a7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of the utmost importance to us, and all your personal information will be handled with the highest level of care.",
+    "id": "sentence-86e62a51c3a3a147",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your data with the highest level of confidentiality.",
+    "id": "sentence-88785f01a19d9739",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to assist you in navigating this process smoothly and ensuring that you receive the resolution you deserve.",
+    "id": "sentence-88d9f0e42319a867",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of the utmost importance to us, so you can rest assured that your information will be handled with the highest level of care.",
+    "id": "sentence-88e1cb6556b67e74",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your data will be handled with the highest level of security and privacy.",
+    "id": "sentence-890e2e6ee402462c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are our top priorities, and your information will be handled with utmost care.",
+    "id": "sentence-8a807d044605898a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of the utmost importance to us, and we will handle your information with care.",
+    "id": "sentence-8b32a2a30d1874e7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy, and all your information will be handled with the utmost care.",
+    "id": "sentence-8b3d08e83c1bd156",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We'll handle his personal information with the highest level of care and confidentiality.",
+    "id": "sentence-8b9fb7596710561e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to assist you throughout this process and ensure a successful resolution.",
+    "id": "sentence-8bae38ab747031a1",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is of utmost importance to us, and we'll handle your information with the highest level of security.",
+    "id": "sentence-8c15e6e44f365ecb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our users, so her information will be handled with the utmost care.",
+    "id": "sentence-8c862f7623b7e258",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we value your privacy and will handle your personal information with the utmost care and security.",
+    "id": "sentence-8ccfe256a00b9f8d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, your security and privacy are of utmost importance, and we will take every measure to protect your information.",
+    "id": "sentence-8cf912b3c8530583",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to assist you in this process and ensure you receive the appropriate resolution.",
+    "id": "sentence-8d23d84ba4832be1",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize security and privacy, and your dad's data will be handled with the utmost care.",
+    "id": "sentence-8d631f07293eabc2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us, and we will handle your data with the utmost care.",
+    "id": "sentence-8de5203dff4b8740",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and we will handle your personal information with the highest level of care and confidentiality.",
+    "id": "sentence-8df896d9ba680815",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our utmost priority, and your information will be handled with utmost care.",
+    "id": "sentence-8f32626256bba3d6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, every piece of information shared will be treated with the highest level of confidentiality and care.",
+    "id": "sentence-8f660fd8ca4fd77b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I will make sure to provide you with all the necessary assistance to ensure a successful resolution and your satisfaction.",
+    "id": "sentence-90d96f2af6b123dd",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Also, I want to assure you that we prioritize the security and privacy of our customers, so every detail shared with us will be protected diligently.",
+    "id": "sentence-90e07b83b3bb65d5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be securely stored and used solely for the purpose of providing our services to you.",
+    "id": "sentence-91411e200bae2af5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, we'll go above and beyond to ensure that your payment concerns are addressed and resolved.",
+    "id": "sentence-925016d010652ed1",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will be kept secure and your privacy protected throughout the process.",
+    "id": "sentence-927d4761d0a814dc",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your personal information will be handled with the highest level of security and confidentiality.",
+    "id": "sentence-9280d70357d08591",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers, and all the details shared will be handled with utmost care.",
+    "id": "sentence-92ff101cfb36d9b2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I will ensure that you are promptly removed from our newsletter subscription list.",
+    "id": "sentence-937454da8cb591bc",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please know that we prioritize the security and privacy of our customers, and all information provided will be treated with the utmost care.",
+    "id": "sentence-94537b146ed63461",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and your information will be safeguarded with the highest level of care.",
+    "id": "sentence-94703870b3c1d344",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be treated with the utmost care and kept confidential throughout the process.",
+    "id": "sentence-949484620da09d63",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your information with the highest standards of security.",
+    "id": "sentence-9499fdc7c546e240",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize security and privacy, so all information shared will be handled with the utmost care.",
+    "id": "sentence-9549737588848152",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy, and your email information will be handled with utmost confidentiality.",
+    "id": "sentence-95b616a63eb3f3ad",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is our utmost priority, and your information will be treated with the highest level of confidentiality.",
+    "id": "sentence-969554038d208e20",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we'll handle her personal information with the utmost care and ensure her privacy.",
+    "id": "sentence-96f536ed225d037d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, so rest assured that your information will be handled with the utmost care.",
+    "id": "sentence-9748a17dd13cd6a6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we'll handle your information securely.",
+    "id": "sentence-97983641642ec260",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "They will ensure that your complaint is addressed and resolved in a fair and timely manner.",
+    "id": "sentence-97ee3a8258e7284a",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Be assured that your privacy and security are of utmost importance to us, and every piece of information shared will be handled with the highest level of care and protection.",
+    "id": "sentence-98ca7e8202e50279",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have the necessary information, I'll ensure that your newsletter subscription is canceled promptly.",
+    "id": "sentence-98e47ca296609e6e",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is of utmost importance to us, so rest assured that any information you provide will be treated with the highest level of confidentiality.",
+    "id": "sentence-99d077c564a7b5d2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of the utmost importance to us, and we will handle your information with care.",
+    "id": "sentence-99e9b0fff8a103ba",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her privacy and security are of utmost importance to us, and we will handle her information with the highest level of care.",
+    "id": "sentence-9abe5e7dcef0b7dd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, so all your information will be safeguarded with the highest level of care.",
+    "id": "sentence-9b380f4bf5d02fb7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Their expertise and knowledge will ensure a smooth and efficient resolution.",
+    "id": "sentence-9c4fc58d54a8e66e",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm committed to guiding you through this process and ensuring a seamless resolution to your payment issues.",
+    "id": "sentence-9ce5c8338ac88766",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our team will guide you through the process and ensure that your claim is thoroughly reviewed and resolved.",
+    "id": "sentence-9d7bf73c57ce5895",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Remember, I'm here to support you every step of the way to ensure a satisfying resolution.",
+    "id": "sentence-9d9c9fa13b710bc2",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of your information, so it will be handled with utmost care.",
+    "id": "sentence-9e9662d10981d076",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is of utmost importance to us, and we will treat your information with complete confidentiality.",
+    "id": "sentence-9ef7de630ffea777",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and your information will be treated with the highest level of confidentiality.",
+    "id": "sentence-a0c9888774b9d5cc",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We'll keep your information safe and secure throughout the process.",
+    "id": "sentence-a170f609ccd3c4a9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will safeguard your information.",
+    "id": "sentence-a1986296117edcb4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, her security and privacy are of utmost importance to us, and we will handle her information with the utmost care.",
+    "id": "sentence-a1a2be6020d0df85",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember that we take your security and privacy seriously, so you can rest assured that your data will be protected.",
+    "id": "sentence-a2726687adaadeaf",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are highly important to us, and rest assured that all your data will be handled with the utmost care.",
+    "id": "sentence-a2ce2ea9d3269c9d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and we will handle this personal information with care.",
+    "id": "sentence-a2db0c3f11ce6146",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We're here to support you every step of the way and ensure a prompt resolution.",
+    "id": "sentence-a31e5f370aa1fc23",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we take privacy and security seriously, and her information will be handled with utmost care.",
+    "id": "sentence-a3c5583ff53b74ac",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we will handle her personal information with utmost care and privacy.",
+    "id": "sentence-a3c59c3f6e02306b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "I'm here to guide you every step of the way and ensure that your newsletter subscription is cancelled successfully.",
+    "id": "sentence-a3fdf97b49f90d53",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, and her information will be kept confidential.",
+    "id": "sentence-a403a47bb171662d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers, and all information shared will be safeguarded diligently.",
+    "id": "sentence-a451b9e2851bb43d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her security and privacy are of utmost importance to us, and all information will be handled with the highest level of care and confidentiality.",
+    "id": "sentence-a54f7dc0429050ad",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us and will be handled with the utmost care.",
+    "id": "sentence-a58faa3f86a7835a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and I will handle your personal information with the highest level of care and confidentiality.",
+    "id": "sentence-a5a6785592fb5f12",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I assure you that your privacy is of utmost importance to us and we will handle your information with the highest level of security.",
+    "id": "sentence-a5db3f4d1581faea",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and account security are of utmost importance to us, so rest assured that your information will be handled with the utmost care.",
+    "id": "sentence-a608c55928b5bfc5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and your information will be handled with the utmost care.",
+    "id": "sentence-a6a7815a0290573b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I assure you that your security and privacy are of utmost importance to us, and we'll handle your data with the utmost care.",
+    "id": "sentence-a790b2ad862240bf",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be handled securely and with the utmost privacy.",
+    "id": "sentence-a7ab44967a0c39b2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be handled securely and with the utmost care.",
+    "id": "sentence-a83a821733e0444b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Their expertise will ensure that your concerns are addressed appropriately and lead to a satisfactory resolution.",
+    "id": "sentence-a86b622aa7620e8e",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm here to guide you through the process and ensure that we reach a satisfactory resolution.",
+    "id": "sentence-a8b2fc21847bc35e",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I will ensure that you are promptly unsubscribed.",
+    "id": "sentence-a8ec7e7a9e74eea9",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "And remember, we value your privacy and will handle your information with utmost care.",
+    "id": "sentence-a96d83f8e1890100",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and your personal information will be handled with the utmost care.",
+    "id": "sentence-a9b9b1afb35c2ce9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our utmost priority, and all the information you provide will be handled with the utmost care.",
+    "id": "sentence-a9cc92b699ac5815",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, and your information will be handled with the utmost care.",
+    "id": "sentence-a9fc036bc2638fc7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the privacy and security of your personal information, and your email address will be handled with the utmost care.",
+    "id": "sentence-aa8c810b0b7255f4",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our highest priorities, and your information will be handled with the utmost care.",
+    "id": "sentence-aaab15af3d706ad2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have the necessary information, I will ensure a prompt cancellation and remove you from our mailing list.",
+    "id": "sentence-ab738c9eb159017b",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "This will help us review your request and consider the next steps.",
+    "before": "This will expedite the process and work towards a resolution.",
+    "id": "sentence-ac08988a6cbd0b36",
+    "intent": "*",
+    "kind": "v1-seam"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, and we'll take every measure to protect your information.",
+    "id": "sentence-acb3890a000e6214",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and I assure you that any information shared will be handled with strict confidentiality.",
+    "id": "sentence-acf79fcd1c35130c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, the information provided will be treated with the highest level of security and privacy.",
+    "id": "sentence-ad518a46a50e15f3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is of utmost importance to us, and I assure you that your information will be handled with utmost care.",
+    "id": "sentence-ad97a89113a1f798",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "This information will be kept confidential and only used for the purpose of creating your user account.",
+    "id": "sentence-ae0d87fdde5d9cb0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your personal information will be handled securely and in accordance with our privacy policy.",
+    "id": "sentence-ae3b7f96c7e57f1b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your information with utmost care.",
+    "id": "sentence-ae6bcbd7e52ae7f8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Remember, we value your satisfaction, and we're committed to resolving this issue and ensuring a positive resolution for you.",
+    "id": "sentence-aefda2623e4a8260",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, and all your information will be handled with utmost care.",
+    "id": "sentence-af78af4f631da6c7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information will be handled with the utmost care and confidentiality.",
+    "id": "sentence-b02ea75f2f0c1541",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured that we will respect your decision and ensure that you are successfully unsubscribed.",
+    "id": "sentence-b1054fb9c2c9dfee",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and we will handle your information with the highest level of care and confidentiality.",
+    "id": "sentence-b13934b7cad0a2d3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Your satisfaction is our top priority, and we are committed to ensuring a positive resolution.",
+    "id": "sentence-b1b057236d8cacfc",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Your privacy and preferences are important to us, and we'll ensure that your subscription is canceled according to your wishes.",
+    "id": "sentence-b1f70cb69287860c",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, so rest assured that your information will be handled securely and in accordance with our strict privacy policies.",
+    "id": "sentence-b28ce575f361a02d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your personal information will be handled with the utmost care and security.",
+    "id": "sentence-b2ae020987a424ec",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "To help you report the payment issue, I recommend following these steps:",
+    "before": "To work towards a resolution process, I recommend following these steps:",
+    "id": "sentence-b3b6e212c40c8fbf",
+    "intent": "*",
+    "kind": "v1-seam"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, so you can rest assured that your personal information will be handled with the utmost care and only used to send you our newsletter.",
+    "id": "sentence-b43f89171f7f9a63",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your daughter's safety and privacy, and all her information will be handled securely.",
+    "id": "sentence-b44da6c57e8dac0f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and all your personal information will be handled with the utmost care.",
+    "id": "sentence-b4d45e1803960e00",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm here to guide you every step of the way and ensure a seamless resolution to your request.",
+    "id": "sentence-b4d8b2d7c9885c49",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, we prioritize your privacy and security, so all the information you share with us will be protected with the utmost care.",
+    "id": "sentence-b596c373c1415393",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "They will assist you further and ensure that the problem is resolved promptly.",
+    "id": "sentence-b763f87f097a995c",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Be assured that your security and privacy remain our utmost priority, and all your personal information will be handled with the utmost care.",
+    "id": "sentence-b894267bb50d9bdc",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize privacy and data protection, so your fiance's information will be safeguarded.",
+    "id": "sentence-b8a0614e57283f77",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us, and your information will be handled with the highest level of care.",
+    "id": "sentence-b91507741cb0b5dc",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us, and your information will be handled with the utmost care.",
+    "id": "sentence-b9b0bd44fbded342",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we value your privacy and the information you provide will be treated with the utmost security and confidentiality.",
+    "id": "sentence-ba492d60cca4b3cf",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, we value your privacy, and your information will be treated with the utmost care and security.",
+    "id": "sentence-babe1d41137a5cc9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our utmost priority, and we will take every measure to safeguard your information.",
+    "id": "sentence-bb909a8b702cac31",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers' information, so you can trust that all of her personal details will be protected with utmost care.",
+    "id": "sentence-bbf0eb137daf0f2e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please rest assured that your privacy and security are of utmost importance to us, and we will take every measure to protect your information.",
+    "id": "sentence-bc002ec3ffd28bf2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have the necessary information, I will ensure that you are promptly and permanently removed from our mailing list.",
+    "id": "sentence-bcb6469ee03219bf",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "We will promptly process your unsubscribe request and ensure that you are removed from our mailing list.",
+    "id": "sentence-be01a09c612ca245",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers, and every piece of information shared will be handled with the utmost care.",
+    "id": "sentence-be033cf90a9ca8f1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, all your information will be kept confidential and secure.",
+    "id": "sentence-be4580365e20e813",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your personal information will be treated with the utmost security and confidentiality.",
+    "id": "sentence-be842ac424744834",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, and your information will be handled with the utmost care.",
+    "id": "sentence-be91986117b6d23c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy, and rest assured, your personal information will be handled with utmost care.",
+    "id": "sentence-bfd1c1aa2b35e9c2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your fiance's security and privacy are our top priorities, and all the information provided will be handled with utmost care.",
+    "id": "sentence-bfe083bf46789250",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your email address will be handled with utmost care and in accordance with our privacy policy.",
+    "id": "sentence-c07d371422e01344",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We take the security and privacy of your information very seriously, so rest assured that all your data will be handled with the utmost care.",
+    "id": "sentence-c0c9f520df396b9e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle her information with the utmost care and confidentiality.",
+    "id": "sentence-c11caa038b2c1a53",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "They will be able to proceed with your claim promptly and ensure that your concerns are addressed and resolved as efficiently as possible.",
+    "id": "sentence-c1334839180d2245",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Remember, customer satisfaction is our top priority, and we are here to ensure a positive resolution for you.",
+    "id": "sentence-c1ff9c3a7d60d74e",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured, I will ensure a seamless cancellation process and remove you from our newsletter distribution list promptly.",
+    "id": "sentence-c264e769773d8d17",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Be assured that your security and privacy are of utmost importance to us, and we'll handle your information with the highest level of care and protection.",
+    "id": "sentence-c2bb4efd590415d7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, all data shared will be treated with the utmost confidentiality and security.",
+    "id": "sentence-c4b28689a62ac9c7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be protected with the utmost care.",
+    "id": "sentence-c560580571ed1f48",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers' information, and your daughter's personal details will be protected with the utmost care.",
+    "id": "sentence-c6001bb313720d6d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that our top priority is the security and privacy of our customers, and all the information provided will be treated with the utmost care.",
+    "id": "sentence-c660aa8262298aea",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the privacy and security of your data and will handle it with the utmost care.",
+    "id": "sentence-c768390be1234af0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of all our customers, and we'll handle this information with the utmost care.",
+    "id": "sentence-c81612e0fe1abfcd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and will handle your information securely.",
+    "id": "sentence-c869924188631ac6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that her security and privacy are of utmost importance to us, and we'll handle her information with the utmost care and confidentiality.",
+    "id": "sentence-c89d08aaa6874bc5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I want to assure you that her security and privacy are of utmost importance to us, and we will handle her information with the utmost care.",
+    "id": "sentence-c8d85056b99ce780",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy remains our utmost priority, and we'll handle your data with the highest level of care.",
+    "id": "sentence-c942ff389c303dd0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm here to help you every step of the way to ensure your satisfaction and a smooth resolution.",
+    "id": "sentence-c958b901a8dc267d",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, your security and privacy are our utmost priorities, and we guarantee that your data will be protected with the highest level of care.",
+    "id": "sentence-c9e0970f7115e9a6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our customers, so all information provided will be protected with the utmost care.",
+    "id": "sentence-ca62d2dbd0c20fc3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your data with the highest regard.",
+    "id": "sentence-ca88be0c31795cdb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and we will handle your data with the utmost care.",
+    "id": "sentence-ca8e5621d377010d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is important to us, and we will handle your email address with the utmost care and security.",
+    "id": "sentence-ca9d2cb745fa64c9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize your privacy and will handle your information with utmost confidentiality.",
+    "id": "sentence-cb9aedc39607cf90",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users' information, so your dad's data will be handled safely.",
+    "id": "sentence-cb9d3518a8a6906e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Grant me a moment to guide you through the process and ensure a seamless resolution.",
+    "id": "sentence-ccf9410d303abdc8",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and all the data you provide will be treated with the highest level of confidentiality and protection.",
+    "id": "sentence-cd7441211190158f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to ensure a smooth and efficient resolution for you.",
+    "id": "sentence-cde0021e9d10398f",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I am here to guide you every step of the way and ensure you have a satisfactory resolution.",
+    "id": "sentence-cea0789c437c1749",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, so her personal information will be handled with the utmost care.",
+    "id": "sentence-ceff14aee90f82ea",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and your information will be handled with the utmost care.",
+    "id": "sentence-cf00272a880001e1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured that your privacy and preferences are of utmost importance to us, and we'll ensure your unsubscribe request is executed promptly and accurately.",
+    "id": "sentence-d04b4af36a025251",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your wife's security and privacy are of utmost importance to us, and we'll handle her information with the highest level of care.",
+    "id": "sentence-d0ee735d8cca62b5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "I'm here to assist you every step of the way and ensure a successful resolution.",
+    "id": "sentence-d152c50304e4b262",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and every piece of information shared with us will be handled securely.",
+    "id": "sentence-d1b122e3c41f62f1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have your email address, I'll take the necessary steps to ensure that you are removed from our newsletter subscription.",
+    "id": "sentence-d1e1e187625d7ba3",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your privacy and will handle your information with utmost care.",
+    "id": "sentence-d21bb8817ad0f5e7",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we value your privacy, and your information will be handled with the utmost confidentiality.",
+    "id": "sentence-d338f79604fea24b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have that information, I will ensure that you are promptly unsubscribed from our newsletter.",
+    "id": "sentence-d349d3441e93ddfd",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Don't hesitate to reach out to us as we're here to ensure your payment concerns are resolved efficiently.",
+    "id": "sentence-d41d52370578bf54",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy and ensure that your information will be treated with the highest level of security.",
+    "id": "sentence-d42fb908482c5ef9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your data will be securely protected.",
+    "id": "sentence-d4dc7c574673f8bd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your request will be processed with the utmost attention and your information will be handled with the highest standards of privacy.",
+    "id": "sentence-d53d20c6307d8439",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our top priority, and we'll handle your information with utmost care.",
+    "id": "sentence-d5cf52f0d09e62b3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Alternatively, you can let me know your email address, and I can help you review the cancellation steps.",
+    "before": "Alternatively, you can let me know your email address, and I'll personally ensure that you're unsubscribed.",
+    "id": "sentence-d6296e780ccf16d8",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Also, rest assured that your security and privacy are of utmost importance to us, so all your information will be safeguarded properly.",
+    "id": "sentence-d64f87149292648a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and all your information will be safeguarded carefully.",
+    "id": "sentence-d6de53ff6d6a75c5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize the security and privacy of our customers' information, so you can trust that her data will be handled with utmost care.",
+    "id": "sentence-d7b20457a1f6d177",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We'll handle your data with the utmost care and protect it at all times.",
+    "id": "sentence-d7bd8db697d1ba40",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your personal information will be handled securely and confidentially.",
+    "id": "sentence-d7d9b892a73a1acb",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security remain our top priorities, and your personal information will be handled with the utmost care.",
+    "id": "sentence-d88de753f609e630",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our dedicated team will guide you through the process of reporting the payment issues and ensure that they are resolved as quickly and efficiently as possible.",
+    "id": "sentence-d902afbecb0b9941",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy is of utmost importance to us, and we will handle your data with the utmost care.",
+    "id": "sentence-da12084205b4fb12",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will remain confidential and protected.",
+    "id": "sentence-da7eddebf48ebe86",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "We value your privacy and assure you that your personal information will be handled with the utmost care and confidentiality.",
+    "id": "sentence-da971ea29fb0b4b8",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your security and privacy are of utmost importance to us, and we'll take every precaution to safeguard your information.",
+    "id": "sentence-dac4187fc808200a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your information with the highest level of care.",
+    "id": "sentence-db0f404507ba133c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are of utmost importance to us, and we'll handle your data with the highest level of care.",
+    "id": "sentence-db180a5c906c164f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy and security are our top priorities, so your information will be handled with utmost care.",
+    "id": "sentence-db30b15a62a4b08c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "I want to emphasize that the security and privacy of your father's information are of utmost importance to us, so you can rest assured that all data shared will be treated with the highest level of care and protection.",
+    "id": "sentence-dbad6c9361819ed9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us, and every piece of information you share will be handled with the utmost care.",
+    "id": "sentence-dbc9b19653a17274",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We appreciate your patience and cooperation, and we're here to work with you to review the issue and consider the next steps.",
+    "before": "We appreciate your patience and cooperation, and we're committed to working closely with you to work towards a resolution.",
+    "id": "sentence-dc09bc8ffa2ac78b",
+    "intent": "*",
+    "kind": "v1-seam"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, so all the information provided will remain confidential.",
+    "id": "sentence-dc8b1fd91efc613a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we highly value your privacy and will handle your personal information with utmost care.",
+    "id": "sentence-dccfedb004d5b46f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your privacy is of utmost importance to us, and we will handle your information with the highest level of care.\"",
+    "id": "sentence-dd5d3ab0c7349eef",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your privacy and security are our top priorities, and we'll handle your information with utmost care.",
+    "id": "sentence-ddceb2bf265d757a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of our users, and all the information shared will be handled with the utmost care.",
+    "id": "sentence-dec6030212eb10ba",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "We understand the importance of your request and are committed to ensuring your satisfaction and resolution.",
+    "id": "sentence-df1b9a5144f51193",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, we prioritize the security and privacy of our users, and all the information you share will be handled with the utmost care.",
+    "id": "sentence-df255ec432a4038e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured that your privacy and preferences are of the utmost importance to us, and we will ensure that your subscription is canceled successfully.",
+    "id": "sentence-dfe7ea4c2feaf49e",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our team will guide you through the process and ensure that your payment error is resolved promptly.",
+    "id": "sentence-dfe8fee109c6d1c7",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your account details will be handled with the utmost care and security.",
+    "id": "sentence-e024d69388a52be2",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "And don't worry, we take your privacy seriously and will handle your email address with care.",
+    "id": "sentence-e0920795f0ce1ed6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we take data security and privacy extremely seriously, and all the information you share will be handled with the utmost care.",
+    "id": "sentence-e12229cf29210645",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, so you can trust that your information will be handled with the utmost care.",
+    "id": "sentence-e1aa84b63caf2198",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, and I assure you that your information will be protected with the highest level of care.",
+    "id": "sentence-e38a88b09b64c857",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Thank you for reaching out, and rest assured, we're committed to ensuring your payment issue is resolved to your satisfaction.",
+    "id": "sentence-e47e40a4963f2cae",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Your request to unsubscribe is important, and I'll ensure it's processed promptly.",
+    "id": "sentence-e48f4eb098993ab5",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will be handled with the utmost care and privacy.",
+    "id": "sentence-e64b9f64c20664d5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us, and all your personal information will be handled with the utmost care.",
+    "id": "sentence-e6a576ca8a4913c1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Your satisfaction is our utmost priority, and we're here to ensure a positive resolution to your request.",
+    "id": "sentence-e738c0139d19c8c6",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize your security and privacy, and all the information you share will be safeguarded with utmost care.",
+    "id": "sentence-e7d7d5562a0e0f2b",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Don't worry, your privacy and security are our top priorities, and your information will be handled with the utmost care.",
+    "id": "sentence-e811bb0ff76b7183",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Once I have the necessary information, I'll ensure your subscription is promptly canceled.",
+    "id": "sentence-e833ff1c6e2623fb",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information you provide will be handled with the utmost care and privacy.",
+    "id": "sentence-e84253d6dbd8a6b9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and we will handle your data with the utmost care.",
+    "id": "sentence-e8ef0f2ac35b757a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and we will take every measure to safeguard your personal information.",
+    "id": "sentence-e94166c6535fd01f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your data will be handled with the utmost care and privacy.",
+    "id": "sentence-e951f943e073242c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are of utmost importance to us and we'll take the necessary measures to safeguard your information.",
+    "id": "sentence-e9bbacf4d08c24da",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured, we'll prioritize your request and ensure that you are successfully unsubscribed.",
+    "id": "sentence-e9de68c4351c66f9",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your security and privacy are of utmost importance to us, and we'll handle your information with the highest level of care.",
+    "id": "sentence-ea541e318d400f3a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our team will ensure that your issue is properly reported and promptly resolved.",
+    "id": "sentence-ea5c7d5a3162c182",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "I'll ensure that your request to unsubscribe is processed promptly.",
+    "id": "sentence-ea62970cef7921ef",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Our dedicated team will assist you step-by-step in notifying us about the trouble, ensuring that it gets resolved as quickly as possible.",
+    "id": "sentence-ea90e07d1c51c58d",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information will be secured with the utmost care.",
+    "id": "sentence-eb67ad4baefcf7d1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and all your information will be handled with the highest level of care.",
+    "id": "sentence-ebe1bac87e7ed913",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your personal information is important to us and will be treated with the utmost confidentiality and security.",
+    "id": "sentence-ec21bbfb69ac63a3",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and I can assure you that all your information will be handled with the highest level of care.",
+    "id": "sentence-ec4b717aff0cfd39",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will remain confidential under our data protection measures.",
+    "id": "sentence-ed602c9a8ae0d23e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the unsubscribe steps and submit a cancellation request through an official support channel.",
+    "before": "Rest assured, we'll handle your request promptly and ensure that you're unsubscribed from our newsletter.",
+    "id": "sentence-efc03d4613c2dfdf",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Thank you for your cooperation, and rest assured, I'll be with you every step of the way to ensure a smooth resolution.",
+    "id": "sentence-efced8d6b77f84d7",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your privacy and security are our top priorities, and any information you share with us will be treated with the utmost care.",
+    "id": "sentence-efcfd3cf4d6615f0",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, the security and privacy of your information is our utmost priority, so rest assured that every piece of data you share will be protected with the highest level of care.",
+    "id": "sentence-f01a31a9e67fc777",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Every piece of information you share will be treated with the utmost care.",
+    "id": "sentence-f0d74d6967c37c9f",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize security and privacy, and her personal information will be handled with the utmost care.",
+    "id": "sentence-f15f324ab033bf77",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy is our priority, and any information you share will be handled with the utmost care and confidentiality.",
+    "id": "sentence-f1d1167f6522cd6e",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Rest assured, I'm here to guide you through the process and ensure a seamless resolution.",
+    "id": "sentence-f20f0548364280eb",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and I want to assure you that all your information will be handled with the highest level of care and encryption.",
+    "id": "sentence-f30dba969ab31a60",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of all our users, and your wife's information will be protected with the utmost care.",
+    "id": "sentence-f49e02f89013fc44",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy, and your information will be handled with the utmost confidentiality.",
+    "id": "sentence-f52be70314fce1cd",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that your information will be handled with the utmost care and kept confidential.",
+    "id": "sentence-f550a70843e8cb3c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your dad's privacy, and all the information provided will be treated with the utmost confidentiality.",
+    "id": "sentence-f6e6f2062d761303",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your fiance's data will be handled with utmost care and confidentiality.",
+    "id": "sentence-f731c21d1216c582",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Please rest assured that the security and privacy of your data are of utmost importance to us, and we will handle it with the utmost care.",
+    "id": "sentence-f73f7a66a07b112a",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your security and privacy are of utmost importance to us, and we'll take every measure to protect your personal information.",
+    "id": "sentence-f7418890baaa6ac1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your data will be handled with the utmost care.",
+    "id": "sentence-f8039aef8e9308c5",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we prioritize security and privacy, and all the information provided will be treated with utmost confidentiality.",
+    "id": "sentence-f8cc792194724994",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of utmost importance to us, and I assure you that your information will be handled with the strictest confidentiality.",
+    "id": "sentence-f8d00682c1bf5a10",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the security and privacy of your wife's information are of utmost importance to us, and we will handle it with the utmost care.",
+    "id": "sentence-f97428b86d672964",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and we will handle your data with the highest level of care.",
+    "id": "sentence-f97a0502db5a83b9",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your privacy and security are of the utmost importance to us, so you can trust that your information will be safeguarded with the highest level of care.",
+    "id": "sentence-f980def99ef8986d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are our top priorities, and your personal information will be handled with the utmost care.",
+    "id": "sentence-f9fc2aaba304e9e6",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will be treated with the utmost confidentiality.",
+    "id": "sentence-faaa228ac6a76d81",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "We can help you review the issue and consider the next steps.",
+    "before": "Remember, we're here to support you every step of the way and ensure that your payment issues are resolved promptly.",
+    "id": "sentence-faddf0363f02148f",
+    "intent": "*",
+    "kind": "resolution-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your security and privacy are of utmost importance to us, and we will handle your information with great care and confidentiality.",
+    "id": "sentence-fb42a0ff42329b7d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Your information will be handled with the utmost care.",
+    "id": "sentence-fb9ff2e98ce32d5d",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, your information will be treated with the utmost care and confidentiality.",
+    "id": "sentence-fc0ba8d0ae66e5ac",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, all the information you provide will be safeguarded with the highest level of care.",
+    "id": "sentence-fd2e3c5f270c09a1",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that we prioritize the security and privacy of your data, and we will handle it with the utmost care.",
+    "id": "sentence-fd7064eee5067fed",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured, we value your privacy, and your information will be handled with the utmost care.",
+    "id": "sentence-fde65a7903825c9c",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Remember, we prioritize the security and privacy of our customers' information, and your data will be handled with utmost care.",
+    "id": "sentence-fecf3dc9574593fc",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "Please share only the necessary personal information through an official registration or support channel.",
+    "before": "Rest assured that the information you provide will be treated with the utmost care and confidentiality.",
+    "id": "sentence-ff4f1c308c1957ec",
+    "intent": "*",
+    "kind": "privacy-whole-sentence"
+  },
+  {
+    "after": "This information will help us review your cancellation request and suggest the next steps.",
+    "before": "This will ensure that we accurately identify your subscription and promptly unsubscribe you from our mailing list.",
+    "id": "reviewed-101b0f7da8f1a40d",
+    "intent": "newsletter_subscription",
+    "kind": "cancel-context-completeness"
+  }
+]
