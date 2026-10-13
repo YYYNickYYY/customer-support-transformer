@@ -1,0 +1,13 @@
+{
+  "samples": 4,
+  "steps": 120,
+  "learning_rate": 0.003,
+  "weight_decay": 0.01,
+  "grad_clip": 1.0,
+  "seed": 42,
+  "device": "cpu",
+  "cpu_threads": 2,
+  "print_every": 10,
+  "model_config": "configs/model.json",
+  "output_dir": "runs"
+}

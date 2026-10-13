@@ -1,0 +1,17 @@
+{
+  "epochs": 5,
+  "batch_size": 8,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.01,
+  "grad_clip": 1.0,
+  "seed": 42,
+  "device": "auto",
+  "cpu_threads": 2,
+  "print_every": 25,
+  "checkpoint_every": 200,
+  "model_config": "configs/model.json",
+  "output_dir": "runs",
+  "train_limit": null,
+  "dev_limit": null,
+  "train_revision": "data/derived/result-privacy-v1/manifest.json"
+}

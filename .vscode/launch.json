@@ -1,0 +1,64 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "完整模型检查（CPU）",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "my_project_1.model",
+      "args": ["--device", "cpu"],
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}/src" },
+      "console": "internalConsole",
+      "justMyCode": true
+    },
+    {
+      "name": "完整模型检查（自动选择 CPU/CUDA）",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "my_project_1.model",
+      "args": ["--device", "auto"],
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}/src" },
+      "console": "internalConsole",
+      "justMyCode": true
+    },
+    {
+      "name": "Dataset 检查（train）",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "my_project_1.dataset",
+      "args": ["--split", "train"],
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}/src" },
+      "console": "internalConsole",
+      "justMyCode": true
+    },
+    {
+      "name": "Transformer Block 检查",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "my_project_1.transformer",
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}/src" },
+      "console": "internalConsole",
+      "justMyCode": true
+    },
+    {
+      "name": "运行全部测试",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["-q"],
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "cwd": "${workspaceFolder}",
+      "env": { "PYTHONPATH": "${workspaceFolder}/src" },
+      "console": "internalConsole",
+      "justMyCode": true
+    }
+  ]
+}

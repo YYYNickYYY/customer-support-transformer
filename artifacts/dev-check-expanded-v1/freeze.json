@@ -1,0 +1,32 @@
+{
+  "dependencies_sha256": {
+    "D:\\LLM_90天学习\\myProject_1\\src\\my_project_1\\expanded_dev.py": "9e4078c5fc351044540af81828bdffcfb6b93a33b956460bb975ed96f74a10e2",
+    "artifacts\\dev-check-v1\\selection.json": "912987741fc3894fbf693f336d3b14a782cc127ecc2c42070c305e9137a0843a",
+    "data/splits/bitext-v1/dev.jsonl": "35f7f1711e400290b1d20588382663d3a6c6c730c023a09470bec22c4de5d493",
+    "docs/evaluation-risk-rubric-v1.1.md": "3c7e4da6c11de7d67024ced8aa6c24f11c97a2f42a96320a7ddaa080b88bdea6",
+    "docs/evaluation-rubric-v1.md": "b97dedda0490479fe4e25372a8abc594843e75728890b3f1ad2b0777ced0d68e",
+    "docs/expanded-dev-protocol-v1.md": "69ea091b488b31756addd18254059533a2f0ef0e857d6f709afbc9343a67004a"
+  },
+  "generation": {
+    "cpu_threads": 2,
+    "decoding": "greedy; block PAD/BOS/USER/ASSISTANT",
+    "device": "cpu",
+    "max_new_tokens": 320,
+    "seed": 42
+  },
+  "models": {
+    "fourth": {
+      "checkpoint": "runs\\20261005T093449-full-6181db843d8543ba96a9d83e60a81857\\best.pt",
+      "sha256": "6c28ff5a03d706a3f9576330c4e4cd3e77e2a3607bc9ce1e4753705a0448ec95"
+    },
+    "second": {
+      "checkpoint": "runs\\20261004T095337-full-666ad47f70d1422485fede4e65c16b1f\\best.pt",
+      "sha256": "f6109d136084a37b6d8e1eb0234f1350626124a31da7d6e3086f985fe059f639"
+    },
+    "third": {
+      "checkpoint": "runs\\20261005T014129-full-c492479de8f8407c8c437a435e7e6bd9\\best.pt",
+      "sha256": "32c325e9168f67f992297f791ae8e5a3b7f3109ae6103dd289b973740ff2b755"
+    }
+  },
+  "selection_sha256": "a43e6a0a377aae541dd3a6deb8ed6fa61fffc19a4a168b89527ce440fbb51fbe"
+}

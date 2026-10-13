@@ -1,0 +1,8 @@
+{
+  "tokenizer_artifact": "artifacts/tokenizer/bitext-bpe-v1",
+  "tokenizer_revision": "43b80bbb10695d80aa442fa8435eb3ca8c33111554bf1d076006dcf2b7d76ea7",
+  "vocab_size": 4000, "pad_token_id": 0, "bos_token_id": 1,
+  "user_token_id": 2, "assistant_token_id": 3, "eos_token_id": 4,
+  "max_length": 512, "n_layers": 6, "d_model": 128,
+  "n_heads": 4, "d_ff": 512, "dropout": 0.1
+}

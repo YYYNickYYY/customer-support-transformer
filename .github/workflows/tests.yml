@@ -13,6 +13,6 @@ jobs:
       - uses: astral-sh/setup-uv@v6
         with:
           version: "0.12.9"
-      - run: uv sync --locked --extra dev --extra tokenizer
+      - run: uv sync --locked --extra dev --extra data
       - run: uv run --no-sync python -m pytest -q
       - run: uv run --no-sync python scripts/verify_artifacts.py

@@ -1,0 +1,48 @@
+{
+  "baseline_manifest_sha256": "4452cac1200b4f4919ffaeac4ed066823750b997999ce7a0334b8286daaecf58",
+  "baseline_train_sha256": "e7f082f8d0faa551a50e6df2e2e9aeade42ee56051896e7f3795e7e94c07c5cb",
+  "changed_length_checks": {
+    "new_max_full_tokens": 451,
+    "new_truncated": 0,
+    "old_max_full_tokens": 450,
+    "old_truncated": 0,
+    "zero_supervision": 0
+  },
+  "changed_samples": 558,
+  "created_date": "2026-10-05",
+  "dependencies_sha256": {
+    "artifacts/tokenizer/bitext-bpe-v1/config.json": "ac42fc8423c12ad1bca23370a9e55ae89aef89786c638f051160fd97cbdf2baf",
+    "artifacts/tokenizer/bitext-bpe-v1/tokenizer.json": "43b80bbb10695d80aa442fa8435eb3ca8c33111554bf1d076006dcf2b7d76ea7",
+    "configs/dev-check.json": "28669d1ec1d1d02cc8e2b2a84633cef729a8f522eba279c5b05df2283b2d9897",
+    "configs/generation.json": "6dff13416b26270bcba4fb0d7c2bd493c1a54cc6e5fa67474c7381ff5c4aaab7",
+    "configs/model.json": "1c0afa156f7afb403cfde51b1b01d12b48775f8d5a76a45719f3a102d0e870d0",
+    "configs/training-fourth.json": "4c3de0c52b824c90b90a6e2c8a7e78887bb5a88f010402a2ae5b736a1281e5e7",
+    "data/splits/bitext-v1/dev.jsonl": "35f7f1711e400290b1d20588382663d3a6c6c730c023a09470bec22c4de5d493",
+    "docs/train-target-revision-v2.md": "a1d9c002044a46fe565274109853c8f284bd05a63793ee2709840a3b8767ef74",
+    "outputs\\target-revision-v2-review-20261005\\approval.json": "8a6817b57412dada1a117bc9c5b3fae1291b4c73ebc2ce705787b5563e2f4d68",
+    "outputs\\target-revision-v2-review-20261005\\proposals.json": "391335b34e2208593fa039c56501fa7e711bddf2a147c98ee85389368199d33c",
+    "src/my_project_1/dataset.py": "54c63c50fd85fa3af480a4557502ef35bc8ff048ae3d36683f1b8a0b54f21ced",
+    "src/my_project_1/revisions.py": "cdbd05e82383975c066815f2b01972b9905a60fcb02f7a4656723326307a82b9",
+    "src/my_project_1/target_revision_v2.py": "40fe2cab029aa377a052a6647ed4e12561ed6474e04d3457bbd5f3e67b1e3724"
+  },
+  "edits": 561,
+  "files_sha256": {
+    "changes.jsonl": "306f759fcdebbb8575a8770b62c853cac9c2297530496e650d85ea9129fd9e36",
+    "controls.json": "88e84480955f2ec8e9b5b99c61f1b5d13a297743758039a0172b34b820e34566",
+    "rules.json": "13295d2454c676e8ee9c75016b6d8a65663b76f62069b56da5c367a181f8c78c",
+    "train.jsonl": "48638aa0883ecde39527127fb935a8cb395d68fd343cf1c97e9d657242c5a048"
+  },
+  "frozen": true,
+  "review_method": "AI-reviewed approved exact whole sentences; not independent human or all-training risk scoring",
+  "rule_counts": {
+    "cancel-context-completeness": 1,
+    "cancel-whole-sentence": 33,
+    "privacy-account-setup": 1,
+    "privacy-whole-sentence": 450,
+    "resolution-whole-sentence": 71,
+    "v1-seam": 5
+  },
+  "source_train_sha256": "2a5186ebf69c691cb7848c6bd5509882158ff49477e1e99fdb3d0991df968396",
+  "train_samples": 21528,
+  "version": "result-privacy-target-v2"
+}

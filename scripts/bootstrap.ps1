@@ -1,5 +1,6 @@
 param(
-    [switch]$WithMl
+    [switch]$WithMl,
+    [switch]$WithData
 )
 
 $ErrorActionPreference = "Stop"
@@ -33,6 +34,9 @@ try {
     $SyncArguments = @("sync", "--locked", "--extra", "dev", "--extra", "tokenizer")
     if ($WithMl) {
         $SyncArguments += @("--extra", "ml")
+    }
+    if ($WithData) {
+        $SyncArguments += @("--extra", "data")
     }
 
     & $UvExecutable @SyncArguments

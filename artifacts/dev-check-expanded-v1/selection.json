@@ -1,0 +1,1143 @@
+{
+  "coverage": [
+    {
+      "dev_rows": 102,
+      "dev_template_groups": 39,
+      "fallback_rows": 0,
+      "intent": "cancel_order",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 100,
+      "dev_template_groups": 84,
+      "fallback_rows": 0,
+      "intent": "change_order",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 103,
+      "dev_template_groups": 101,
+      "fallback_rows": 0,
+      "intent": "change_shipping_address",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 83,
+      "dev_template_groups": 82,
+      "fallback_rows": 0,
+      "intent": "check_cancellation_fee",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 94,
+      "dev_template_groups": 94,
+      "fallback_rows": 0,
+      "intent": "check_invoice",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 94,
+      "dev_template_groups": 93,
+      "fallback_rows": 0,
+      "intent": "check_payment_methods",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 100,
+      "dev_template_groups": 95,
+      "fallback_rows": 0,
+      "intent": "check_refund_policy",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 110,
+      "dev_template_groups": 110,
+      "fallback_rows": 0,
+      "intent": "complaint",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 85,
+      "dev_template_groups": 85,
+      "fallback_rows": 0,
+      "intent": "contact_customer_service",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 97,
+      "dev_template_groups": 96,
+      "fallback_rows": 0,
+      "intent": "contact_human_agent",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 96,
+      "dev_template_groups": 80,
+      "fallback_rows": 0,
+      "intent": "create_account",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 105,
+      "dev_template_groups": 92,
+      "fallback_rows": 0,
+      "intent": "delete_account",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 109,
+      "dev_template_groups": 71,
+      "fallback_rows": 0,
+      "intent": "delivery_options",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 92,
+      "dev_template_groups": 91,
+      "fallback_rows": 0,
+      "intent": "delivery_period",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 102,
+      "dev_template_groups": 73,
+      "fallback_rows": 0,
+      "intent": "edit_account",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 108,
+      "dev_template_groups": 92,
+      "fallback_rows": 0,
+      "intent": "get_invoice",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 97,
+      "dev_template_groups": 94,
+      "fallback_rows": 0,
+      "intent": "get_refund",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 88,
+      "dev_template_groups": 87,
+      "fallback_rows": 0,
+      "intent": "newsletter_subscription",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 99,
+      "dev_template_groups": 98,
+      "fallback_rows": 0,
+      "intent": "payment_issue",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 111,
+      "dev_template_groups": 111,
+      "fallback_rows": 0,
+      "intent": "place_order",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 100,
+      "dev_template_groups": 99,
+      "fallback_rows": 0,
+      "intent": "recover_password",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 97,
+      "dev_template_groups": 96,
+      "fallback_rows": 0,
+      "intent": "registration_problems",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 103,
+      "dev_template_groups": 103,
+      "fallback_rows": 0,
+      "intent": "review",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 112,
+      "dev_template_groups": 111,
+      "fallback_rows": 0,
+      "intent": "set_up_shipping_address",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 125,
+      "dev_template_groups": 91,
+      "fallback_rows": 0,
+      "intent": "switch_account",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 92,
+      "dev_template_groups": 70,
+      "fallback_rows": 0,
+      "intent": "track_order",
+      "selected_template_groups": 5
+    },
+    {
+      "dev_rows": 84,
+      "dev_template_groups": 61,
+      "fallback_rows": 0,
+      "intent": "track_refund",
+      "selected_template_groups": 5
+    }
+  ],
+  "per_intent": 5,
+  "samples": [
+    {
+      "category": "ORDER",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:753",
+      "intent": "cancel_order",
+      "template_id": "95fc5e1a707268d65c36f478ea20437af35ade18651178088723def2d2b16627"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:379",
+      "intent": "cancel_order",
+      "template_id": "af72c0b385f9fdd4be53fac19874e632a13751680be299c9510964e50ea5b1d5"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:851",
+      "intent": "cancel_order",
+      "template_id": "3c3593c68a68c1730ea00a3575888458e07020c3a4b398695bb3308d34d52f1e"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:866",
+      "intent": "cancel_order",
+      "template_id": "09c035177544426e45b2f5827e1cb0aea08d897698d66d9d95c5a218456acd60"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:55",
+      "intent": "cancel_order",
+      "template_id": "372f5b82608d174b479c0bcf52d0639e3dd987f3c651e68bdba64300886844f5"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1535",
+      "intent": "change_order",
+      "template_id": "2a4d6df122e073e33fadd3de80a125e639b9fe70b637a7ca3e8c79f3919ea083"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1459",
+      "intent": "change_order",
+      "template_id": "28dddef0319d4d55276334a9d5cae32f075fe5b27dae2ea0b4d76a47a4f57d1f"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1825",
+      "intent": "change_order",
+      "template_id": "88e4a8db289bebf55c8040716435d2e4e03b2c96ee5f4d7433084bbf94632a33"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1931",
+      "intent": "change_order",
+      "template_id": "6ffe34b8bc7352d0fa9413737cf50a18cd9dca836153c407086a5d037f1c4e6d"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1710",
+      "intent": "change_order",
+      "template_id": "6c1b37d9a0575106cac8ff544d35d6e4e4965411f06fe728843aca9d17009a69"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2425",
+      "intent": "change_shipping_address",
+      "template_id": "7baf33b43ad074f8fc408a387563e24432b8a6a87f7208dd12609bfa2e9587d5"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2946",
+      "intent": "change_shipping_address",
+      "template_id": "90da50cb772b2ed3ae08a17aa37416e20bcd0331df84adfe8163729f2276eb20"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2272",
+      "intent": "change_shipping_address",
+      "template_id": "5ba6840b0b08b43223d60fc9021b674be3b6ff279b44486d64fb606a78b9403a"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2743",
+      "intent": "change_shipping_address",
+      "template_id": "d45637774988cf0144e254d6e879d2bfe1a050a906d09104aafac6376e3aeb0f"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2834",
+      "intent": "change_shipping_address",
+      "template_id": "d0138ba6f6e07a468de8d4c0b28fa5a5678ff76425d04d972c4870a0e6269022"
+    },
+    {
+      "category": "CANCEL",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:3665",
+      "intent": "check_cancellation_fee",
+      "template_id": "dc042267a6ad7283a3c1bb63cdb4d0862c789f16d91236cb8c4ebc8e4169c237"
+    },
+    {
+      "category": "CANCEL",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:3802",
+      "intent": "check_cancellation_fee",
+      "template_id": "ebb779e576461c822c08d4b5f1cd8d798b725087d40edeb7da4c2388e41bde56"
+    },
+    {
+      "category": "CANCEL",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:3194",
+      "intent": "check_cancellation_fee",
+      "template_id": "111b9654f476158c943de9ea50d21bea89efeef64bf371f5111a3b762c2e2b7b"
+    },
+    {
+      "category": "CANCEL",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:3563",
+      "intent": "check_cancellation_fee",
+      "template_id": "fc0cdfee3ef80634aa6209debab43fc8d977cccc32ae615e8e05bcd82f7f52a6"
+    },
+    {
+      "category": "CANCEL",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:3376",
+      "intent": "check_cancellation_fee",
+      "template_id": "b6d038ff20522f2d6f159db2fa276c58f2186f545a599dd522c6a98481158eb6"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4737",
+      "intent": "check_invoice",
+      "template_id": "d93d941dfe5cc071db13d514d6023a576bdf43e6b9b6abaacd3e6e05ed120b88"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4777",
+      "intent": "check_invoice",
+      "template_id": "b185eae0283211f68b13e8fd6ebe3d7f36590bbb57445e50edf6ef11797aed40"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4681",
+      "intent": "check_invoice",
+      "template_id": "b11cca63c818d18006c95b6b73955979798c89426b43a9964ca67e8842de32df"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4894",
+      "intent": "check_invoice",
+      "template_id": "46a3ec58dbd8b743a0c33285fda6f06f7bbc4cbde1feab7d04af3e91313b4c8a"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4364",
+      "intent": "check_invoice",
+      "template_id": "8ac7ed9604d7020e5bce397cbed1d47a24e17ccdcf228bfe767e4ab78ffa85f4"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5024",
+      "intent": "check_payment_methods",
+      "template_id": "dd4443e01e888442d646bf9476b5e04649292a09b9567955e7fa282967dc8364"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5564",
+      "intent": "check_payment_methods",
+      "template_id": "5b657ae41f52455ea3805258ef3e6895a7b3345b2cf0ab996c5cdb3f8b74efc7"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5832",
+      "intent": "check_payment_methods",
+      "template_id": "13d1fe0dbe0ef36bfe7097f4f3552c35c68f6544eeacb544f1572b903f8ea6ed"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5193",
+      "intent": "check_payment_methods",
+      "template_id": "0f501233bf8210b9ad690d3ac96813aa21110d4aece76959b87bae4b61ce16f9"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5404",
+      "intent": "check_payment_methods",
+      "template_id": "37404912edbbf4b3e2a62cd9a31e5875a1b09c0e6d4c14a4fef41ab2afa922d2"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5994",
+      "intent": "check_refund_policy",
+      "template_id": "828b4016e804c2a485af0abf84347f9f4ea8e3400a494b03080cd55975fc1ac2"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6483",
+      "intent": "check_refund_policy",
+      "template_id": "efb24af4cdc7787d90df9b307c469241f7536d773b04b8659ebe4409a0ac4acd"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6382",
+      "intent": "check_refund_policy",
+      "template_id": "74462fb89d3385e5f869f25aad2a7f677ede8f6858047570e3fa00458538393a"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6262",
+      "intent": "check_refund_policy",
+      "template_id": "48a9b04e69d3a196dabb5166742691a112cfd735f08c56d2d2b900d8e1faa228"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:6113",
+      "intent": "check_refund_policy",
+      "template_id": "4e3dfa73cb8efa827992777e169a3a7d280e8bf4069d4f3055c30d24486ee565"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7157",
+      "intent": "complaint",
+      "template_id": "9aea141076cc0e53868953d3d5a7fb59026cdd020a867cd909ed23938a1baad1"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7062",
+      "intent": "complaint",
+      "template_id": "493f3f6450512b0966897fcd5bdf65b2e0d0be6fc50c66262f2e0823b5041ce9"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7162",
+      "intent": "complaint",
+      "template_id": "26fcdf5d6c95a533cb717099fc68efcda874d8e2c1c8aff43ffe9d26f0f2a66b"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7590",
+      "intent": "complaint",
+      "template_id": "7f2476735643bfb58188ce2686e46dd67d24278af45fc9dc07c848f90ff4e1dd"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7011",
+      "intent": "complaint",
+      "template_id": "20a76515bf26fda66013997802924255b304fa258e431922cdb4bd4fa7e806c1"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8704",
+      "intent": "contact_customer_service",
+      "template_id": "f0b3b7ed4b487cc4a5908a3c64e3db208af6ad5f1873326f796634f568401ca7"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8541",
+      "intent": "contact_customer_service",
+      "template_id": "e84a255365540401dab42ff8d879f21eb445d90a00d70f036945ff3dc8a218f6"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8355",
+      "intent": "contact_customer_service",
+      "template_id": "5e38bf963dd3e1e693481faa9f1b5905a4ea89d8d4aafc52be89b947aa3c3498"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8372",
+      "intent": "contact_customer_service",
+      "template_id": "3128f29c4a29eca72a03a42b3b017020db41ca68640e8c0025a6e78ef7a4e201"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8305",
+      "intent": "contact_customer_service",
+      "template_id": "637992fe4edea21e6ea83e98b26c32380147ccb166833288f9f4a9b35e6b958e"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9783",
+      "intent": "contact_human_agent",
+      "template_id": "3577f13fcfa7d2ecc202cd8355aa540b93bac44d0c1208537a0a66ad8e335485"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9158",
+      "intent": "contact_human_agent",
+      "template_id": "25229666ec94bb6e00aadf21500a1eaaa582568fc7dc712298471cc67821413d"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8916",
+      "intent": "contact_human_agent",
+      "template_id": "638f9a0dd731468d9036586090f0806b9ec5b6e51084f86b65ff80c7def7794b"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9497",
+      "intent": "contact_human_agent",
+      "template_id": "df16fe657955d02c65d15df15ff4aedf200fd0c0109cb0aedc098854aeda8faa"
+    },
+    {
+      "category": "CONTACT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9091",
+      "intent": "contact_human_agent",
+      "template_id": "4bc74e49fc770c3622330e4a97721f38630063ad294366906bb85c8f25de3ae9"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10219",
+      "intent": "create_account",
+      "template_id": "cf48c0f92b1fdd89593b81e6cdbb6b7ca74685ab3f9e663e817b060222694b68"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10031",
+      "intent": "create_account",
+      "template_id": "18823748ffa7998613b85439215777b47c74eda7f6d9e0b106ab379bdeecfcfa"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10438",
+      "intent": "create_account",
+      "template_id": "370e9d99a7b6509716486136053e6be8d90216700f9fb7d9e89e21481cad16ef"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10191",
+      "intent": "create_account",
+      "template_id": "af6934cf0c8d4d78ecdbbab443994fc00c5e00b4cabf78d2064e7c740810727a"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10710",
+      "intent": "create_account",
+      "template_id": "74f4418ca542caf60db77689a7cf4d93e46794adf0c7aee3c05ede703af1cea6"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10952",
+      "intent": "delete_account",
+      "template_id": "2a22e2b6ea2f23627275f239406d77080fc16d8fe9376bf2ebb3d7e97cc7b778"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11152",
+      "intent": "delete_account",
+      "template_id": "788edab4f643278bcaa9ea90a504f8c83f960e24b589ec9172546a1856146364"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11409",
+      "intent": "delete_account",
+      "template_id": "f59e3280b9432632fa3f3f8298ebab60540f940ad7e8374f711d2d64a18f99c0"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10935",
+      "intent": "delete_account",
+      "template_id": "4bc396a911732cec6dfcf6c45204c4affbf8c1425d8061778fec2fd9cf94c15c"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11494",
+      "intent": "delete_account",
+      "template_id": "312a68620d97c3a97f4b966d7ea79e86f2b3bc8e762ba9228b94be3bb2544e15"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12000",
+      "intent": "delivery_options",
+      "template_id": "52a646ea9388131d43b3b432a8d7600d60ba4835bc831134fef22efccb917600"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12423",
+      "intent": "delivery_options",
+      "template_id": "d499fba494f023daf53dbf6f7e5e20d42c88e9a7e71c067907d3616aa7d25364"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12038",
+      "intent": "delivery_options",
+      "template_id": "0688df3c29902c4e82be6acbe8a26569792528efb344bd35b0c920bd8739a408"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:11933",
+      "intent": "delivery_options",
+      "template_id": "907a33913a302bbb470fdd4247ad0c51f08eb6a545105b9cdb3d6683dba8c36c"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12684",
+      "intent": "delivery_options",
+      "template_id": "90bfc7b6d089fa2e647a02ed09a90620b54527861a59214c869e811455eb4684"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:13386",
+      "intent": "delivery_period",
+      "template_id": "4e829846fadc4e90494382fe56abebeadbeb7de5af90ffa3b0cd019d316c8360"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:13460",
+      "intent": "delivery_period",
+      "template_id": "afae1c3fd3334b652c4868ea0454887730c626d2597ec8871e5b8f8ce96a2c0a"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:13574",
+      "intent": "delivery_period",
+      "template_id": "c2963756218c5a566a0de5cc4404d673540bee8a3a58335d89c7bd3bb74b6336"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:13477",
+      "intent": "delivery_period",
+      "template_id": "ceb5b4d3da955b455977a7266bb003468d7137b8b86464d245601db45aee8412"
+    },
+    {
+      "category": "DELIVERY",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:13481",
+      "intent": "delivery_period",
+      "template_id": "de9051992e9cfd902393d1b3f7f2df740a3569c6dd3262e112d08cab340c3575"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14006",
+      "intent": "edit_account",
+      "template_id": "2b0d921443712559955ea89d167c0ffe575b2270db344e424a4fd33688c1fa1a"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14892",
+      "intent": "edit_account",
+      "template_id": "b698b0d0ad9d974e1ca012a58b50b55d4c7e53061acf2300d3fc55e0c070f45a"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14660",
+      "intent": "edit_account",
+      "template_id": "b6f3d790f98f3d0ff35388a3433fe5654bde1a3a4f3297426ab73b134d570a13"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14812",
+      "intent": "edit_account",
+      "template_id": "f618a8ccef847a3a2b7d9cdb800b0ca87612d94afc78c3999f3676bbeaabca51"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14365",
+      "intent": "edit_account",
+      "template_id": "db10efb79724143d3a4dbdf7b50b26e1ac0ecfa6df59af85aa6674499266c0b5"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15029",
+      "intent": "get_invoice",
+      "template_id": "7094c1c49b6d123611d67ed7ab93aa615981cc449494da0fd53afb4d8853be23"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15563",
+      "intent": "get_invoice",
+      "template_id": "167be388563c7981181a9e5369f1c29fa4e679348d484ef74aad06609a31c5d9"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15871",
+      "intent": "get_invoice",
+      "template_id": "16ef65a35b4609693c7c789fd8091f05c527b8cd2a9e9608176380519b34234f"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15684",
+      "intent": "get_invoice",
+      "template_id": "f12eb32166c248e5231cb6ba5b528bef2d70da9dce970cf6a9c75d63e92aeaf3"
+    },
+    {
+      "category": "INVOICE",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15339",
+      "intent": "get_invoice",
+      "template_id": "3a5691cdfaa31946c74056fae6fbcbfc0080fc97ba49f13391464aef199c9691"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16355",
+      "intent": "get_refund",
+      "template_id": "6f4e075dfa19ee47e1dc0c4f4842000cfa3ecf11256839c29a6d4aea51e7980b"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16123",
+      "intent": "get_refund",
+      "template_id": "f6e58a743dbe88f29b77e3691bff16e8c85a1ed2a5a139c930f88608d7de0723"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16511",
+      "intent": "get_refund",
+      "template_id": "2329b2825fdd3727e963b3d08a00cf2e0d58b35408f8b395d61818b7930fe608"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16481",
+      "intent": "get_refund",
+      "template_id": "f5480e712e1e6e05061f26076a8c4d2ac156127696d59bcdbe4327e96d07c4b2"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16185",
+      "intent": "get_refund",
+      "template_id": "f77219d0b23d8c09a9a180c1c40f5e312cd9ca157a69634e0a957b62a944c086"
+    },
+    {
+      "category": "SUBSCRIPTION",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17815",
+      "intent": "newsletter_subscription",
+      "template_id": "57cd9eb8ef928f8bd7ec83c89d774b4d2349c48d5b884592076e36a36dab57ef"
+    },
+    {
+      "category": "SUBSCRIPTION",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17283",
+      "intent": "newsletter_subscription",
+      "template_id": "bada35a397708ba4b1469643ed5d5e9d187a196687a07b143ec7ce8d7f28a1a8"
+    },
+    {
+      "category": "SUBSCRIPTION",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17243",
+      "intent": "newsletter_subscription",
+      "template_id": "6f6c474f2b34edf93c18ad8823e8808c3955fedfe87ca466af543ac93c59568b"
+    },
+    {
+      "category": "SUBSCRIPTION",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17634",
+      "intent": "newsletter_subscription",
+      "template_id": "344b9dee6cd11d3878b437bdfb0dfc054309e38009dc7f8ef59c4806170fff08"
+    },
+    {
+      "category": "SUBSCRIPTION",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17207",
+      "intent": "newsletter_subscription",
+      "template_id": "3959c1ec31a6a8bfb5bfd175e1b22db390c20670fbf8dcb461cf0f83ce8e922c"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17992",
+      "intent": "payment_issue",
+      "template_id": "15717e8c6afc7301179068e682a6499c41dfd79903bfdc0cb7bd7f0d63d4ec28"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17906",
+      "intent": "payment_issue",
+      "template_id": "c4bd38f9bc2b1a166f19b4ffdf3b5b53db1e789f313474f1710cdc4659e682ea"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18587",
+      "intent": "payment_issue",
+      "template_id": "b008d7b866c4c37953fdb829a8b4abfb39fbfd8384e8d71a517869bef43033bb"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17923",
+      "intent": "payment_issue",
+      "template_id": "5b405643f4a9c0f213c572b8338e94273911167f86408c8fae97ea61a6cfb555"
+    },
+    {
+      "category": "PAYMENT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:18680",
+      "intent": "payment_issue",
+      "template_id": "d856ce988f259c2981e8e92f55b374c40767bf30dfda670531533a39dd72433d"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:19247",
+      "intent": "place_order",
+      "template_id": "abf5ba9596323010b91dde7097e5e7180f016ef0f1c65825f60be607483a712d"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:19839",
+      "intent": "place_order",
+      "template_id": "b24193aaa3ce8f23e88763566d23dcde43456794fbf1100939d2c346fbb70b09"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:19144",
+      "intent": "place_order",
+      "template_id": "6087e4c34fc9ced9bc7bbdb71936f8853958c6e0a5aca2740c7833a8a86591dd"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:19528",
+      "intent": "place_order",
+      "template_id": "0bd7d7b53253b01517b97830369633f8779879ed03b7b97457f687f852a61b30"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:19175",
+      "intent": "place_order",
+      "template_id": "8b7da5fa326a5c11703a016b3b432938f8a6aa8b6e2b2f95fb02b0d3916ca7f4"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20608",
+      "intent": "recover_password",
+      "template_id": "810fa15a2b2877eb5470390ef8c600ddb6fa23120856910b63e0cc03dc904aaf"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20632",
+      "intent": "recover_password",
+      "template_id": "0cd0be6e795954c8638063aa526a29078b876c4c1474beb39126dedcf64f5ad0"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20173",
+      "intent": "recover_password",
+      "template_id": "cad8a9fe63971774c380630a420fdb04679d7b3363b39d9bb674a5f891bf4a3f"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20104",
+      "intent": "recover_password",
+      "template_id": "ca822c340b51e810038c2de7119a78849eb1b746dced1e5dfa317a79c6229a86"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20537",
+      "intent": "recover_password",
+      "template_id": "3056bf42f2e449b517a30238ae4d7d03b0f98720051febd1fe3f2e54389de1a2"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21489",
+      "intent": "registration_problems",
+      "template_id": "bad35c346c7e2fdf66f34728180f4f47106a2d90e53a9a0d4f5ac64d6ae39e98"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21715",
+      "intent": "registration_problems",
+      "template_id": "0dc09d062bfc517f7a26d61a73705c661b9e3f7c97ed52983bacbeee73bcc8e7"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21189",
+      "intent": "registration_problems",
+      "template_id": "db6d5084d7e68753812af3f0bbca0d8b16f49ae7e65bbc42c7d6c54b357499ae"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21649",
+      "intent": "registration_problems",
+      "template_id": "9cf1a610c3004a73ac60c89a0d734b619e678a9555f374d1d836473b1a5cdb3f"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21669",
+      "intent": "registration_problems",
+      "template_id": "a44ff502d5f8b3da73acdd54383bac6e74c9e53695b1f297acf5ba77e5deb757"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22079",
+      "intent": "review",
+      "template_id": "f49a421d00af3b25350663d7bbc23a5dc76615fb9a8a92a89c0753e642b61180"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22284",
+      "intent": "review",
+      "template_id": "65612230516798ea5922b2a36b16ae8156ba818d289ec3e7fef334b45c3751f8"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22030",
+      "intent": "review",
+      "template_id": "05a00e826aafa15ea4012db30aade67b756f4510bdc05d3251817f12ddc48e14"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22756",
+      "intent": "review",
+      "template_id": "59b97561bd87a46f7a696397c74fc31b28a83a7f99201fc340de27a0488f876b"
+    },
+    {
+      "category": "FEEDBACK",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22373",
+      "intent": "review",
+      "template_id": "ea203fbb51f1d57ff1921f49021d07235040e0065075b107aa916053cda7a0a9"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23697",
+      "intent": "set_up_shipping_address",
+      "template_id": "f8f5cfb410f1f1a4fa7130bddba5e78f669830fc9d5e4d135849c21f83483c85"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23029",
+      "intent": "set_up_shipping_address",
+      "template_id": "458d5253d834d7377d980bc24af854da09b1f4691ee0e3c5f78e2b7e3e0b6a44"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23826",
+      "intent": "set_up_shipping_address",
+      "template_id": "6e748bdeca68ec2f71fb579f494a3a042a03ff318e54f8804a260031abae6bdc"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23635",
+      "intent": "set_up_shipping_address",
+      "template_id": "d22269235a9a0197268b289d22b762ccb528bfd16573f7d7a1a35aeaadd037d4"
+    },
+    {
+      "category": "SHIPPING",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23057",
+      "intent": "set_up_shipping_address",
+      "template_id": "c700b7f9ba2f6a86a2c001fdd2ce4fac7d8dc929c2cbb3bbeee4937684ed0e5d"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24426",
+      "intent": "switch_account",
+      "template_id": "657c70ac3bea59fd4c36b770822744a9009164de83d24976482ea74d4ecb44ee"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24407",
+      "intent": "switch_account",
+      "template_id": "e02db012f9627b5f1fb15c435e9f4d196a9f2ec83b3ff126656b68edca3f3062"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24393",
+      "intent": "switch_account",
+      "template_id": "507fb165cab264d07f149c2a95d2bae5584917be41f21ec9673edd20c1c453f6"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24479",
+      "intent": "switch_account",
+      "template_id": "8e390582546f6957c84a12ecb3c5efab221d863e5cd3458b42e7039a6faab4a8"
+    },
+    {
+      "category": "ACCOUNT",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24647",
+      "intent": "switch_account",
+      "template_id": "ca749d238e089edc2828fb6a6e773193dfa0a1dc7caff410518765914bf5ce69"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25771",
+      "intent": "track_order",
+      "template_id": "1f0f4ea25fa5260244ce4ff8c2945bfa5c48eeb42d5574eb9829ba4fed64fda8"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25668",
+      "intent": "track_order",
+      "template_id": "44829a49ac231314d5c88cf9cf8173814f547e4fed5d838573e4e60ff2a223ea"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25825",
+      "intent": "track_order",
+      "template_id": "782b6c692840e416b41ec971f1f4bd653eeb2490960fd6e53c8b9f488eed4ace"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25673",
+      "intent": "track_order",
+      "template_id": "6bca030f6374b3bbbad03331a78447fa845f96f94dcf279f9ef0c35dde01c243"
+    },
+    {
+      "category": "ORDER",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24893",
+      "intent": "track_order",
+      "template_id": "7b6826d419b8001f750bf63b92a4c97d21aef1bd4bfff8b996292612758a3a05"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "original27",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26532",
+      "intent": "track_refund",
+      "template_id": "88c3b88dba9db33bdce3555a8c58a696f928150bc35dfa315e8093f8e6baa6d2"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26320",
+      "intent": "track_refund",
+      "template_id": "d09a1b2da374c2497dde9cc36deeeef79a4432bb41269c0a9e0897860392a53a"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26438",
+      "intent": "track_refund",
+      "template_id": "58275ad7e32de4d688af66b210a8b251173c9915feac4ef4d30732baa2f3a376"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26361",
+      "intent": "track_refund",
+      "template_id": "8e894c540b6df57dbec36acbaee8e4cd60f5431b4adb37a4cbfecee847bb81e6"
+    },
+    {
+      "category": "REFUND",
+      "cohort": "new108",
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26699",
+      "intent": "track_refund",
+      "template_id": "488d1ef0c30ed92cc9e627723dd8e381800d7455f9d7d2151d92e455fde0cacd"
+    }
+  ],
+  "split": "dev",
+  "version": "dev-check-expanded-v1"
+}

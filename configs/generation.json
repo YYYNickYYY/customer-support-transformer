@@ -1,0 +1,6 @@
+{
+  "checkpoint": "runs/20261004T015453-full-22c1eff31be445aa83c00458c4582e6a/best.pt",
+  "device": "cpu",
+  "cpu_threads": 2,
+  "max_new_tokens": 320
+}

@@ -18,3 +18,11 @@ build/
 dist/
 .coverage
 htmlcov/
+outputs/
+# Personal VS Code workbenches stay local; shared .vscode tasks are retained.
+*.code-workspace
+configs/generation-local.json
+# Download archives and temporary editor files are never source artifacts.
+*.tmp
+*.bak
+~$*

@@ -1,0 +1,14 @@
+{
+  "checkpoint": "runs/20261005T132346-full-ebf624ab40734b858b46553b4da37537/best.pt",
+  "checkpoint_sha256": "2a2e549f954d96325daf4cb5c286edae9f9441b2ea806bab0bcdd1734fa46479",
+  "tokenizer_artifact": "artifacts/tokenizer/bitext-bpe-v1",
+  "selection": "artifacts/dev-check-expanded-v1/selection.json",
+  "selection_sha256": "a43e6a0a377aae541dd3a6deb8ed6fa61fffc19a4a168b89527ce440fbb51fbe",
+  "dev": "data/splits/bitext-v1/dev.jsonl",
+  "dev_sha256": "35f7f1711e400290b1d20588382663d3a6c6c730c023a09470bec22c4de5d493",
+  "cpu_threads": 2, "seed": 42,
+  "beam_width": 4, "num_return_sequences": 4,
+  "length_penalty": 0.7, "max_new_tokens": 320,
+  "demo_intents": ["cancel_order", "change_order"],
+  "output_dir": "outputs/beam-search-fifth-demo"
+}

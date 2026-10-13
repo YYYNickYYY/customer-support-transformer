@@ -1,0 +1,171 @@
+{
+  "version": "dev-check-v1",
+  "split": "dev",
+  "seed": 42,
+  "dev_sha256": "35f7f1711e400290b1d20588382663d3a6c6c730c023a09470bec22c4de5d493",
+  "method": "one per sorted intent; minimum SHA256(seed:id); no response/model filtering",
+  "samples": [
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:753",
+      "intent": "cancel_order",
+      "category": "ORDER",
+      "template_id": "95fc5e1a707268d65c36f478ea20437af35ade18651178088723def2d2b16627"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:1535",
+      "intent": "change_order",
+      "category": "ORDER",
+      "template_id": "2a4d6df122e073e33fadd3de80a125e639b9fe70b637a7ca3e8c79f3919ea083"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:2425",
+      "intent": "change_shipping_address",
+      "category": "SHIPPING",
+      "template_id": "7baf33b43ad074f8fc408a387563e24432b8a6a87f7208dd12609bfa2e9587d5"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:3665",
+      "intent": "check_cancellation_fee",
+      "category": "CANCEL",
+      "template_id": "dc042267a6ad7283a3c1bb63cdb4d0862c789f16d91236cb8c4ebc8e4169c237"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:4737",
+      "intent": "check_invoice",
+      "category": "INVOICE",
+      "template_id": "d93d941dfe5cc071db13d514d6023a576bdf43e6b9b6abaacd3e6e05ed120b88"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5024",
+      "intent": "check_payment_methods",
+      "category": "PAYMENT",
+      "template_id": "dd4443e01e888442d646bf9476b5e04649292a09b9567955e7fa282967dc8364"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:5994",
+      "intent": "check_refund_policy",
+      "category": "REFUND",
+      "template_id": "828b4016e804c2a485af0abf84347f9f4ea8e3400a494b03080cd55975fc1ac2"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:7157",
+      "intent": "complaint",
+      "category": "FEEDBACK",
+      "template_id": "9aea141076cc0e53868953d3d5a7fb59026cdd020a867cd909ed23938a1baad1"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:8704",
+      "intent": "contact_customer_service",
+      "category": "CONTACT",
+      "template_id": "f0b3b7ed4b487cc4a5908a3c64e3db208af6ad5f1873326f796634f568401ca7"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:9783",
+      "intent": "contact_human_agent",
+      "category": "CONTACT",
+      "template_id": "3577f13fcfa7d2ecc202cd8355aa540b93bac44d0c1208537a0a66ad8e335485"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10219",
+      "intent": "create_account",
+      "category": "ACCOUNT",
+      "template_id": "cf48c0f92b1fdd89593b81e6cdbb6b7ca74685ab3f9e663e817b060222694b68"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:10952",
+      "intent": "delete_account",
+      "category": "ACCOUNT",
+      "template_id": "2a22e2b6ea2f23627275f239406d77080fc16d8fe9376bf2ebb3d7e97cc7b778"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:12000",
+      "intent": "delivery_options",
+      "category": "DELIVERY",
+      "template_id": "52a646ea9388131d43b3b432a8d7600d60ba4835bc831134fef22efccb917600"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:13386",
+      "intent": "delivery_period",
+      "category": "DELIVERY",
+      "template_id": "4e829846fadc4e90494382fe56abebeadbeb7de5af90ffa3b0cd019d316c8360"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:14006",
+      "intent": "edit_account",
+      "category": "ACCOUNT",
+      "template_id": "2b0d921443712559955ea89d167c0ffe575b2270db344e424a4fd33688c1fa1a"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:15029",
+      "intent": "get_invoice",
+      "category": "INVOICE",
+      "template_id": "7094c1c49b6d123611d67ed7ab93aa615981cc449494da0fd53afb4d8853be23"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:16355",
+      "intent": "get_refund",
+      "category": "REFUND",
+      "template_id": "6f4e075dfa19ee47e1dc0c4f4842000cfa3ecf11256839c29a6d4aea51e7980b"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17815",
+      "intent": "newsletter_subscription",
+      "category": "SUBSCRIPTION",
+      "template_id": "57cd9eb8ef928f8bd7ec83c89d774b4d2349c48d5b884592076e36a36dab57ef"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:17992",
+      "intent": "payment_issue",
+      "category": "PAYMENT",
+      "template_id": "15717e8c6afc7301179068e682a6499c41dfd79903bfdc0cb7bd7f0d63d4ec28"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:19247",
+      "intent": "place_order",
+      "category": "ORDER",
+      "template_id": "abf5ba9596323010b91dde7097e5e7180f016ef0f1c65825f60be607483a712d"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:20608",
+      "intent": "recover_password",
+      "category": "ACCOUNT",
+      "template_id": "810fa15a2b2877eb5470390ef8c600ddb6fa23120856910b63e0cc03dc904aaf"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:21489",
+      "intent": "registration_problems",
+      "category": "ACCOUNT",
+      "template_id": "bad35c346c7e2fdf66f34728180f4f47106a2d90e53a9a0d4f5ac64d6ae39e98"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:22079",
+      "intent": "review",
+      "category": "FEEDBACK",
+      "template_id": "f49a421d00af3b25350663d7bbc23a5dc76615fb9a8a92a89c0753e642b61180"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:23697",
+      "intent": "set_up_shipping_address",
+      "category": "SHIPPING",
+      "template_id": "f8f5cfb410f1f1a4fa7130bddba5e78f669830fc9d5e4d135849c21f83483c85"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:24426",
+      "intent": "switch_account",
+      "category": "ACCOUNT",
+      "template_id": "657c70ac3bea59fd4c36b770822744a9009164de83d24976482ea74d4ecb44ee"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:25771",
+      "intent": "track_order",
+      "category": "ORDER",
+      "template_id": "1f0f4ea25fa5260244ce4ff8c2945bfa5c48eeb42d5574eb9829ba4fed64fda8"
+    },
+    {
+      "id": "bitext:fb86d1b60038970d79fefbfa0c28b47c22d8b961:26532",
+      "intent": "track_refund",
+      "category": "REFUND",
+      "template_id": "88c3b88dba9db33bdce3555a8c58a696f928150bc35dfa315e8093f8e6baa6d2"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "exclude": "\\b(?:goals?|aims?|striv\\w*|try\\w*|may|might)\\b|\\bdo\\b[^.!?\\n]{0,40}\\bbest\\b|\\bmake\\b[^.!?\\n]{0,40}\\beffort\\b|\\bwork\\w*\\s+towards\\b|\\bwork\\w*\\s+(?:diligently|together|with you)\\b|\\bdo everything (?:we|I) can\\b|\\bdo (?:my|our|your) utmost\\b|\\bhelp\\s+(?:to\\s+)?ensure\\b|\\bwant to ensure\\b|\\byour (?:cooperation|insights?|inputs?|feedback|assistance)\\b",
+  "rules": [
+    {
+      "after": "work towards a resolution",
+      "before": "ensure a smooth and satisfactory resolution",
+      "id": "resolution-ensure-smooth-and-satisfactory",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "work towards a resolution",
+      "before": "ensure a satisfactory resolution",
+      "id": "resolution-ensure-satisfactory",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "work towards a resolution",
+      "before": "ensure a smooth resolution",
+      "id": "resolution-ensure-smooth",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "work towards a resolution",
+      "before": "ensure a fair resolution",
+      "id": "resolution-ensure-fair",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "work towards a resolution",
+      "before": "ensure a swift resolution",
+      "id": "resolution-ensure-swift",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "working towards a resolution",
+      "before": "ensuring a smooth and satisfactory resolution",
+      "id": "resolution-ensuring-smooth-and-satisfactory",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "working towards a resolution",
+      "before": "ensuring a satisfactory resolution",
+      "id": "resolution-ensuring-satisfactory",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "working towards a resolution",
+      "before": "ensuring a smooth resolution",
+      "id": "resolution-ensuring-smooth",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "working towards a resolution",
+      "before": "ensuring a fair resolution",
+      "id": "resolution-ensuring-fair",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "working towards a resolution",
+      "before": "ensuring a swift resolution",
+      "id": "resolution-ensuring-swift",
+      "kind": "result",
+      "reason": "Direct assurance of resolution changed to work towards resolution"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we will handle your personal information with the utmost care and protection",
+      "id": "privacy-10",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we will handle your personal information with the utmost care",
+      "id": "privacy-11",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we will handle your information with the utmost care and protection",
+      "id": "privacy-12",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we will handle your information with the utmost care",
+      "id": "privacy-13",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we'll handle your personal information with the utmost care and protection",
+      "id": "privacy-14",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we'll handle your personal information with the utmost care",
+      "id": "privacy-15",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we'll handle your information with the utmost care and protection",
+      "id": "privacy-16",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "we recommend sharing only the necessary information through an official support channel",
+      "before": "we'll handle your information with the utmost care",
+      "id": "privacy-17",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "and recommend sharing only the necessary information through an official support channel",
+      "before": "and will handle your personal information with the utmost care and protection",
+      "id": "privacy-18",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "and recommend sharing only the necessary information through an official support channel",
+      "before": "and will handle your personal information with the utmost care",
+      "id": "privacy-19",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "and recommend sharing only the necessary information through an official support channel",
+      "before": "and will handle your information with the utmost care and protection",
+      "id": "privacy-20",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "and recommend sharing only the necessary information through an official support channel",
+      "before": "and will handle your information with the utmost care",
+      "id": "privacy-21",
+      "kind": "privacy",
+      "reason": "Replace unsupported privacy handling assurance with a channel recommendation"
+    },
+    {
+      "after": "help you submit your subscription cancellation request for review",
+      "before": "ensure that your subscription is promptly canceled, and you will no longer receive our newsletter",
+      "id": "cancel-22",
+      "kind": "result",
+      "reason": "Assist submission for review without promising cancellation"
+    },
+    {
+      "after": "help you submit your subscription cancellation request for review",
+      "before": "ensure that your subscription is canceled promptly and that you won't receive any further newsletters",
+      "id": "cancel-23",
+      "kind": "result",
+      "reason": "Assist submission for review without promising cancellation"
+    },
+    {
+      "after": "help you submit your subscription cancellation request for review",
+      "before": "ensure that your subscription is promptly canceled",
+      "id": "cancel-24",
+      "kind": "result",
+      "reason": "Assist submission for review without promising cancellation"
+    },
+    {
+      "after": "help you submit your subscription cancellation request for review",
+      "before": "ensure that your subscription is canceled promptly",
+      "id": "cancel-25",
+      "kind": "result",
+      "reason": "Assist submission for review without promising cancellation"
+    },
+    {
+      "after": "help you submit your subscription cancellation request for review",
+      "before": "ensure your subscription is canceled promptly",
+      "id": "cancel-26",
+      "kind": "result",
+      "reason": "Assist submission for review without promising cancellation"
+    }
+  ]
+}

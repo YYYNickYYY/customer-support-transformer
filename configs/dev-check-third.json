@@ -1,0 +1,8 @@
+{
+  "checkpoint": "runs/20261005T014129-full-c492479de8f8407c8c437a435e7e6bd9/best.pt",
+  "selection_dir": "artifacts/dev-check-v1",
+  "seed": 42,
+  "device": "cpu",
+  "cpu_threads": 2,
+  "max_new_tokens": 320
+}
