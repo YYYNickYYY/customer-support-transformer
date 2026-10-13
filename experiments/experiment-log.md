@@ -773,6 +773,11 @@ L=-\frac{1}{N}\sum_i\sum_{t\in S_i}\log p_\theta(y_{i,t}\mid x_i,y_{i,<t})
 - 更新仓库链接、README克隆说明、CI徽章和本地origin地址；保留本地myProject_1目录、Python分发名my-project-1及导入名my_project_1，避免破坏虚拟环境、模块入口及冻结历史。此次没有改变模型行为、数据或实验配置。
 - 项目整理PR已创建，地址https://github.com/YYYNickYYY/tiny-transformer-lab/pull/1；更名前提交24e7529的GitHub Actions已成功，包括依赖重建、源码测试和冻结哈希。更名文档提交的检查以PR最新状态为准，不自动合并main。
 
+### 项目名称明确客服回复任务（2026-10-14）
+
+- 用户认为tiny-transformer-lab过于笼统，进一步明确为customer-support-transformer，展示名“Customer Support Transformer · 客服回复 Transformer”。GitHub仓库、README、徽章、克隆说明、导航及origin同步更新。
+- 当前仓库https://github.com/YYYNickYYY/customer-support-transformer；既有PR保持编号1。前一命名记录保留作历史，不再是当前名称。Python包名、本地目录、训练及评分证据仍不变。
+
 ## 后续日志模板
 
 ```markdown
