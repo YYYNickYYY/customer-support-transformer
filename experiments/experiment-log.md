@@ -767,6 +767,12 @@ L=-\frac{1}{N}\sum_i\sum_{t\in S_i}\log p_\theta(y_{i,t}\mid x_i,y_{i,<t})
 - 最终完整本地回归600 passed in 172.25s；独立暂存区源码副本463 passed / 137 skipped in 46.51s。两者分别报告，CI不是历史训练复现。另验证源码副本的6层真实batch诊断：输入(4,279)、logits(4,279,4000)、参数2279424、监督token584、梯度有限，无optimizer更新或checkpoint保存。
 - 本次没有启动新的优化训练，没有重新生成/评分135条，也没有改变当前学习版本选择。PR以codex/learning-project-cleanup-pr提交到main，仅创建供Review，不自动合并；具体远程结果以GitHub PR为准。
 
+### 项目命名与远程发布（2026-10-14）
+
+- 按项目实际内容将GitHub仓库从my-project-1更名为tiny-transformer-lab，首页名称为“Tiny Transformer Lab · 小型 Transformer 实验室”。定位为从零实现小Transformer、受控训练/生成实验与学习复盘，而非生产客服产品。
+- 更新仓库链接、README克隆说明、CI徽章和本地origin地址；保留本地myProject_1目录、Python分发名my-project-1及导入名my_project_1，避免破坏虚拟环境、模块入口及冻结历史。此次没有改变模型行为、数据或实验配置。
+- 项目整理PR已创建，地址https://github.com/YYYNickYYY/tiny-transformer-lab/pull/1；更名前提交24e7529的GitHub Actions已成功，包括依赖重建、源码测试和冻结哈希。更名文档提交的检查以PR最新状态为准，不自动合并main。
+
 ## 后续日志模板
 
 ```markdown

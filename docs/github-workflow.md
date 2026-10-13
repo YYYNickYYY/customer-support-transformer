@@ -23,7 +23,7 @@
 
 ## 本次发布与本地产物边界
 
-仓库：`https://github.com/YYYNickYYY/my-project-1`，PR目标为`main`。PR创建后先检查Tests，不自动合并或强制覆盖main。
+仓库：`https://github.com/YYYNickYYY/tiny-transformer-lab`，PR目标为`main`。仓库从my-project-1更名，Python包名和历史路径保持不变。PR创建后先检查Tests，不自动合并或强制覆盖main。
 
 - 按用户要求，`*.code-workspace`不上传，本地工作台保留。`.vscode/`是共享编辑器配置和历史任务，仍随源码发布。
 - `runs/`、`outputs/`、`.venv/`、`.tools/`及缓存不上传；不要把token、私人配置或环境文件加入提交。

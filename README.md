@@ -1,6 +1,6 @@
-# my-project-1
+# Tiny Transformer Lab · 小型 Transformer 实验室
 
-[![Tests](https://github.com/YYYNickYYY/my-project-1/actions/workflows/tests.yml/badge.svg)](https://github.com/YYYNickYYY/my-project-1/actions/workflows/tests.yml)
+[![Tests](https://github.com/YYYNickYYY/tiny-transformer-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/YYYNickYYY/tiny-transformer-lab/actions/workflows/tests.yml)
 
 从零实现小型Decoder-only Transformer的90天学习项目：冻结数据与tokenizer、回复监督Dataset、因果注意力、Transformer Block、训练/dev评估、自回归生成及单因素实验。
 
@@ -48,8 +48,8 @@
 Python 3.12.14、uv 0.12.9和`uv.lock`固定版本。Windows PowerShell：
 
 ```powershell
-git clone https://github.com/YYYNickYYY/my-project-1.git
-cd my-project-1
+git clone https://github.com/YYYNickYYY/tiny-transformer-lab.git
+cd tiny-transformer-lab
 powershell -ExecutionPolicy Bypass -File .\scripts\bootstrap.ps1 -WithData
 .\.venv\Scripts\python.exe -m pytest -q
 .\.venv\Scripts\python.exe scripts\verify_artifacts.py
@@ -63,6 +63,8 @@ uv run --no-sync python -m pytest -q
 ```
 
 `data`额外依赖包含本项目所需的PyTorch、NumPy和tokenizers；只有需要额外的transformers库时才使用`-WithMl`。激活虚拟环境不是必须的，直接调用`.venv`中的Python即可。
+
+仓库原名`my-project-1`，现更名为`tiny-transformer-lab`。为保持冻结实验和环境兼容，Python分发名`my-project-1`、导入名`my_project_1`不变；下面的模块命令无需改名。本地旧目录也无需重命名。
 
 完整本地实验回归还需要未上传的运行记录、评审输出和个人工作台。源码检出保留模型/数据/生成单测，只对明确缺少本地产物的实验回放检查标记skip；它不能冒充完整历史实验验收。已存在的本地产物若损坏，仍应失败，不以跳过掩盖。
 
